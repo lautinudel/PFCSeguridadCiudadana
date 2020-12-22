@@ -1,0 +1,10 @@
+{
+  "labels":[
+    "Muy Inseguro",
+    "Inseguro",
+    "Seguro",
+    "Muy Seguro"
+  ],
+  "pretrained_vectors":null,
+  "pretrained_dims":null
+}
