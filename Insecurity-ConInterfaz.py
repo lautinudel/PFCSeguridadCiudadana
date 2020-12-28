@@ -51,7 +51,6 @@ def entityRecognizer(texto):
     textoNLP = nlp(texto)  # APLICO NLP
     # OBTENGO SUS ENTIDADES
     entidades = ner(textoNLP)
-    #displacy.serve(entidades, style="ent")
     i = 0
     for i in range(len(entidades.ents)):
         entidad = entidades.ents[i].label_
@@ -69,28 +68,19 @@ def textCategory(entidades):
     probabilidades = [inseguridad.cats['Muy Inseguro'], inseguridad.cats['Inseguro'], inseguridad.cats['Seguro'], inseguridad.cats['Muy Seguro']]
     if inseguridad.cats['Muy Inseguro'] == max(probabilidades):
         categoria = "Muy Insegura"
-        #accion="Llamar a la policia"
         app.setMeter("NivelSeguridad", 100, text="Muy Insegura")       
     else:
         if inseguridad.cats['Inseguro'] == max(probabilidades):
             categoria = "Insegura"
-            #accion="Sonar alarma comunitaria"
             app.setMeter("NivelSeguridad", 75, text="Insegura") 
         else:
             if inseguridad.cats['Seguro'] == max(probabilidades):
                 categoria = "Segura"
-                #accion="Notificar a un familiar"
                 app.setMeter("NivelSeguridad", 25, text="Segura")
             else: 
                 if inseguridad.cats['Muy Seguro'] == max(probabilidades):
                     categoria = "Muy Segura"
-                    #accion="Ninguna accion"
                     app.setMeter("NivelSeguridad", 1, text="Muy Segura")
-    #historial.insert(0,"")
-    #historial.insert(0,"- "+datetime.now().strftime('%H:%M:%S')+" "+categoria)
-    #historial.insert(0,accion)
-    #app.updateListBox("historial", historial, select=False) 
-    #app.updateListBox("historialEscena", historial, select=False)
     app.after(8000,app.setMeter, "NivelSeguridad", 0, "Analizando...")     
     return categoria
 
@@ -182,7 +172,6 @@ ner = spacy.load(nermodel) # CARGO EL MODELO DE NER
 textcat = spacy.load(textcatmodel) # CARGO EL MODELO DE TEXTCAT
 
 mensajes = []
-#historial = []
 
 #Manejo de botones
 def botonesChat(button):
@@ -196,13 +185,10 @@ def botonesChat(button):
 
 def botonesMenu(button):
     global mensajes
-    #global historial
+
     mensajes = []
-    #historial = []
     app.updateListBox("mensajes", mensajes, select=False)
     app.updateListBox("mensajesEscena", mensajes, select=False)
-    #app.updateListBox("historial", historial, select=False) 
-    #app.updateListBox("historialEscena", historial, select=False)
     if button == "Chat": 
         app.nextFrame("MENU")
         app.setFocus("Mensaje")
@@ -213,9 +199,7 @@ def botonesMenu(button):
 
 def botonesDemo(button):
     global mensajes
-    #global historial
-    #historial =[]
-    #app.updateListBox("historialEscena", historial, select=False)
+
     if button == "Atras": app.firstFrame("MENU")
     else: 
         if button == "Apache":
@@ -257,7 +241,6 @@ def botonesEscena(button):
         app.setMeter("NivelSeguridad", 0, text="Analizando...")
         app.updateListBox("mensajesEscena", mensajes, select=False)
         app.prevFrame("MENU")
-        #.afterCancel(afterId) 
 
 def enviarMensaje(msj):
     global mensajes
@@ -311,7 +294,6 @@ app.setStretch('both')
 app.setSticky('news')
 app.addListBox("mensajes", mensajes, 0,0,2)
 app.setStretch('row')
-#app.addListBox("historial", historial,0,2)
 app.stopFrame()
 #Ingreso de texto
 app.addLabelEntry("Mensaje")
@@ -348,7 +330,6 @@ app.setStretch('both')
 app.setSticky('news')
 app.addListBox("mensajesEscena", mensajes, 0,0,2)
 app.setStretch('row')
-#app.addListBox("historialEscena", historial,0,2)
 app.stopFrame()
 app.addMeter("NivelSeguridad")
 app.setMeterFill("NivelSeguridad", "red")
@@ -365,18 +346,3 @@ app.enableEnter(botonesChat)
 
 # start the GUI
 app.go()
-
-#Editor de sub
-#subs = pysrt.open('El clan (2015).HDrip.srt',encoding='utf-8')
-#parts = subs.slice(starts_after={'hours':1,'minutes': 5, 'seconds':20}, ends_before={'hours':1,'minutes': 6, 'seconds':47})
-
-#time.sleep(subs[0].start.seconds)
-#for i in range(len(subs)):                    
-#    seguridadCiudadana(subs[i].text) 
-#    if i<len(subs)-1:           
-#        time.sleep((subs[i+1].start-subs[i].start).seconds)
-
-#parts.shift(hours=-1)
-#parts.shift(minutes=-5)
-#parts.shift(seconds=-20)
-#parts.save('El clan Escena 2.srt', encoding='utf-8')
