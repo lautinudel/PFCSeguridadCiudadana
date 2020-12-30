@@ -24,17 +24,6 @@ class bcolors:
     BOLD = '\033[1m'
     UNDERLINE = '\033[4m'
 
-# FUNCION QUE APLICA NLP
-def nlp(texto):
-    texto = texto.lower()  # minuscula
-    texto = unidecode.unidecode(texto)  # acentos
-    texto = ''.join(e for e in texto if e.isalnum()
-                    or e.isspace())  # caracteres especiales
-    texto = ''.join(e for e in texto if not e.isdigit())
-    texto = texto.lstrip()  # espacio del principio
-    texto = texto.rstrip()  # espacio del final
-    return texto
-
 # PASA DE UN ARREGLO DE STRING A UN STRING SEPARADO POR COMAS
 def toString(arreglo):
     resultado = ""
@@ -48,9 +37,8 @@ def toString(arreglo):
 # RECIBE UN TEXTO Y DEVUELVE UN ARREGLO DE ENTIDADES
 def entityRecognizer(texto):
     listaEntidades = []
-    textoNLP = nlp(texto)  # APLICO NLP
     # OBTENGO SUS ENTIDADES
-    entidades = ner(textoNLP)
+    entidades = ner(texto)
     i = 0
     for i in range(len(entidades.ents)):
         entidad = entidades.ents[i].label_
