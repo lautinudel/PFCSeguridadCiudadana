@@ -138,7 +138,7 @@ def seguridadCiudadana(texto):
         print("Analizando...")
         resultado = textCategory(entidadesAAnalizar)
         print("LA CONVERSACION FUE: "+resultado)
-        return "- "+datetime.now().strftime('%H:%M:%S')+"    "+"Se llego al limite de entidades -> LA CONVERSACION FUE: "+resultado
+        return "- "+datetime.now().strftime('%H:%M:%S')+"    "+"Entidad/es: "+toString(listaEntidadesAux)+"    "+" => Se llego al limite de entidades -> LA CONVERSACION FUE: "+resultado
     else:
         entidadesEnEspera = entidadesEnEspera + listaEntidadesAux
         print("Sigo escuchando")
