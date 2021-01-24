@@ -244,7 +244,7 @@ def mostrarSub(msj):
     
 #INTERFAZ
 
-app = gui("Seguridad ciudadana", "900x400")
+app = gui("Seguridad ciudadana", "1000x400")
 app.startFrameStack("MENU")
 
 #MENU PRINCIPAL
