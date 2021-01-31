@@ -10,24 +10,24 @@ from spacy.util import minibatch, compounding
 import pandas as pd
 
 #NOMBRE DEL MODELO A CREAR
-modelfile = "TEXTCATTestModel"
+modelfile = "TEXTCATModel"
 
 #CARGO EL DATASET
-train_data = pd.read_csv('TEXTCAT dataset - 1000 datos.csv', usecols=['label', 'text'])
+train_data = pd.read_csv('Datasets\TEXTCAT dataset - 1000 datos - 261120.csv', usecols=['label', 'text'])
 
 #LE DOY EL FORMATO ADECUADO AL DATASET
 TRAIN_DATA = []
 for index, data in train_data.iterrows():
-    if data['label'] == 47: #muy inseguro
+    if data['label'] == 108: #muy inseguro
       TRAIN_DATA.append((data['text'],{'cats': {'Muy Inseguro': True, 'Inseguro': False, 'Seguro':False, 'Muy Seguro':False} })) 
     else: 
-      if data['label'] == 48: #inseguro
+      if data['label'] == 107: #inseguro
         TRAIN_DATA.append((data['text'],{'cats': {'Muy Inseguro': False, 'Inseguro': True, 'Seguro':False, 'Muy Seguro':False} }))  
       else :
-        if data['label'] == 49: #seguro
+        if data['label'] == 109: #seguro
           TRAIN_DATA.append((data['text'],{'cats': {'Muy Inseguro': False, 'Inseguro': False, 'Seguro':True, 'Muy Seguro':False} })) 
         else: 
-          if data['label'] == 50: #muy seguro
+          if data['label'] == 110: #muy seguro
             TRAIN_DATA.append((data['text'],{'cats': {'Muy Inseguro': False, 'Inseguro': False, 'Seguro':False, 'Muy Seguro':True} })) 
 
     
@@ -37,24 +37,6 @@ from sklearn.model_selection import train_test_split
 X_train, X_test = train_test_split(TRAIN_DATA,  test_size=0.20, random_state=0)
 
 X_test_text, X_test_cats = zip(*X_test)
-"""
-mins=0
-ins=0
-seg=0
-for x in X_test:
-    if x[1]['cats']['Muy Inseguro']:
-        mins +=1
-    else:
-        if x[1]['cats']['Inseguro']:
-            ins +=1
-        else:
-             if x[1]['cats']['Seguro']:
-                seg +=1
-
-print(mins)
-print(ins)
-print(seg)
-"""
 
 
 #EVALUA LA PRECISION DEL MODELO
@@ -89,7 +71,6 @@ def evaluate(tokenizer, textcat, texts, cats):
 #FUNCION QUE ENTRENA EL TEXTCAT DE UN MODELO
 def train_spacy(model,data,iterations):
     TRAIN_DATA = data
-
     #Verifico si el modelo existe, sino creo uno desde 0
     if model is not None:
         nlp = spacy.load(model)  
@@ -124,7 +105,7 @@ def train_spacy(model,data,iterations):
         #Entreno el modelo en base al numero de iteraciones
         print("Training the model...")
         print("{:^5}\t{:^5}\t{:^5}\t{:^5}".format("LOSS", "P", "R", "F"))
-        batch_sizes = compounding(4.0, 32.0, 1.001)
+        batch_sizes = compounding(1.0, 32.0, 1.001)
         for i in range(iterations):
             losses = {}
             # batch up the examples using spaCy's minibatch

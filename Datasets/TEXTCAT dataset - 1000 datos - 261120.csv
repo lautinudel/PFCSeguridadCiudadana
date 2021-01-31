@@ -1,0 +1,1010 @@
+annotation_approver,id,label,text,user
+,66265,110,"Agradecimiento, Saludo, Agradecimiento, Orden Amistosa",1
+,66266,109,"Saludo, Rechazo, Saludo",1
+,66267,108,"Orden Amistosa, Agradecimiento, Amenaza, Orden Amistosa, Pedir Disculpas, Amenaza, Amenaza, Saludo, Saludo",1
+,66268,109,"Agradecimiento, Pedir Disculpas, Agradecimiento, Pedir Disculpas, Pedir Disculpas, Orden Amistosa, Agradecimiento, Pedir Disculpas, Insulto",1
+,66269,108,"Saludo, Aprobacion, Orden Amenazante, Aprobacion",1
+,66270,108,"Aprobacion, Orden Amenazante, Orden Amenazante, Amenaza, Aprobacion, Pedir Disculpas, Agradecimiento, Pedir Disculpas, Amenaza",1
+,66271,110,Saludo,1
+,66272,110,"Orden Amistosa, Agradecimiento, Saludo, Saludo",1
+,66273,109,"Saludo, Saludo, Rechazo, Rechazo, Agradecimiento, Aprobacion, Saludo, Aprobacion, Rechazo",1
+,66274,110,Pedir Disculpas,1
+,66275,108,"Aprobacion, Orden Amenazante, Aprobacion, Saludo, Orden Amistosa, Rechazo, Amenaza, Saludo",1
+,66276,108,"Insulto, Rechazo, Aprobacion, Orden Amistosa, Orden Amenazante, Saludo, Pedido de ayuda, Orden Amenazante, Aprobacion, Orden Amistosa",1
+,66277,108,"Orden Amenazante, Agradecimiento, Orden Amistosa, Pedido de ayuda, Insulto, Orden Amistosa, Pedir Disculpas",1
+,66278,110,"Pedir Disculpas, Aprobacion, Agradecimiento",1
+,66279,108,"Saludo, Rechazo, Aprobacion, Pedido de ayuda",1
+,66280,107,"Agradecimiento, Saludo, Aprobacion, Pedir Disculpas, Aprobacion, Orden Amistosa, Saludo, Amenaza, Orden Amistosa",1
+,66281,108,"Pedir Disculpas, Orden Amenazante, Agradecimiento, Aprobacion, Orden Amistosa, Aprobacion, Orden Amistosa, Orden Amenazante",1
+,66282,107,"Rechazo, Saludo, Orden Amistosa, Insulto, Orden Amistosa, Pedir Disculpas, Aprobacion",1
+,66283,110,Aprobacion,1
+,66284,109,"Aprobacion, Orden Amistosa, Insulto, Pedir Disculpas, Saludo, Saludo, Saludo, Rechazo, Saludo, Pedir Disculpas",1
+,66285,110,"Pedir Disculpas, Orden Amistosa, Aprobacion, Aprobacion, Saludo, Aprobacion, Agradecimiento, Agradecimiento",1
+,66286,107,"Pedir Disculpas, Amenaza, Amenaza, Saludo, Saludo, Insulto, Pedir Disculpas, Saludo, Aprobacion, Rechazo",1
+,66287,110,"Agradecimiento, Orden Amistosa, Agradecimiento",1
+,66288,108,"Orden Amistosa, Orden Amenazante, Aprobacion, Orden Amistosa, Rechazo, Saludo, Aprobacion, Orden Amenazante",1
+,66289,107,"Insulto, Pedir Disculpas, Amenaza, Saludo, Orden Amistosa, Saludo, Aprobacion, Pedir Disculpas, Pedir Disculpas, Pedir Disculpas",1
+,66290,107,"Saludo, Orden Amenazante, Agradecimiento, Agradecimiento, Aprobacion, Amenaza, Agradecimiento",1
+,66291,109,"Pedir Disculpas, Insulto, Rechazo, Saludo",1
+,66292,107,"Orden Amistosa, Pedir Disculpas, Amenaza",1
+,66293,107,"Rechazo, Agradecimiento, Orden Amistosa, Rechazo, Pedido de ayuda, Agradecimiento, Aprobacion, Rechazo, Saludo",1
+,66294,107,"Pedido de ayuda, Insulto, Aprobacion, Agradecimiento, Orden Amistosa, Agradecimiento, Pedir Disculpas",1
+,66295,107,"Agradecimiento, Pedido de ayuda",1
+,66296,108,"Orden Amenazante, Rechazo, Pedido de ayuda, Aprobacion, Orden Amistosa, Amenaza, Agradecimiento, Agradecimiento, Agradecimiento",1
+,66297,109,"Orden Amistosa, Orden Amistosa, Saludo, Rechazo, Agradecimiento",1
+,66298,109,"Orden Amistosa, Saludo, Aprobacion, Pedir Disculpas, Rechazo, Agradecimiento",1
+,66299,109,"Rechazo, Rechazo, Saludo, Orden Amistosa, Agradecimiento, Saludo, Saludo",1
+,66300,109,"Rechazo, Agradecimiento, Aprobacion, Agradecimiento, Pedir Disculpas, Orden Amistosa, Insulto, Aprobacion",1
+,66301,108,"Orden Amenazante, Pedido de ayuda, Orden Amistosa, Orden Amistosa, Pedir Disculpas, Agradecimiento, Orden Amistosa, Pedir Disculpas, Saludo",1
+,66302,107,"Orden Amistosa, Orden Amenazante, Orden Amistosa, Saludo, Saludo, Pedir Disculpas, Rechazo, Saludo",1
+,66303,110,"Agradecimiento, Pedir Disculpas, Saludo",1
+,66304,107,"Pedir Disculpas, Agradecimiento, Orden Amistosa, Aprobacion, Rechazo, Orden Amistosa, Pedido de ayuda",1
+,66305,108,"Pedir Disculpas, Pedir Disculpas, Agradecimiento, Pedido de ayuda, Orden Amistosa, Agradecimiento, Orden Amistosa, Orden Amistosa, Agradecimiento, Orden Amenazante",1
+,66306,110,"Saludo, Pedir Disculpas",1
+,66307,110,"Saludo, Saludo, Saludo, Saludo",1
+,66308,108,"Pedir Disculpas, Orden Amistosa, Orden Amistosa, Amenaza, Rechazo, Orden Amistosa, Orden Amistosa, Agradecimiento, Insulto, Orden Amistosa",1
+,66309,110,"Pedir Disculpas, Agradecimiento",1
+,66310,108,"Saludo, Orden Amenazante, Aprobacion, Rechazo, Saludo",1
+,66311,110,"Agradecimiento, Saludo, Saludo",1
+,66312,108,"Rechazo, Pedido de ayuda, Saludo, Pedir Disculpas, Rechazo, Pedir Disculpas, Aprobacion, Amenaza, Agradecimiento",1
+,66313,110,Agradecimiento,1
+,66314,107,"Amenaza, Insulto, Agradecimiento, Pedir Disculpas, Pedir Disculpas",1
+,66315,108,"Saludo, Saludo, Agradecimiento, Orden Amenazante, Agradecimiento, Amenaza, Insulto, Aprobacion",1
+,66316,107,"Saludo, Saludo, Pedir Disculpas, Saludo, Pedido de ayuda",1
+,66317,110,"Pedir Disculpas, Agradecimiento, Saludo, Saludo, Pedir Disculpas, Saludo, Saludo, Agradecimiento, Orden Amistosa",1
+,66318,107,"Pedir Disculpas, Rechazo, Orden Amenazante, Aprobacion, Agradecimiento, Amenaza, Aprobacion, Orden Amistosa",1
+,66319,108,"Pedido de ayuda, Saludo, Pedido de ayuda, Insulto, Orden Amenazante",1
+,66320,110,"Saludo, Aprobacion",1
+,66321,110,"Orden Amistosa, Pedir Disculpas",1
+,66322,110,"Aprobacion, Orden Amistosa, Saludo, Aprobacion, Agradecimiento, Pedir Disculpas, Agradecimiento",1
+,66323,107,"Pedido de ayuda, Orden Amistosa, Pedir Disculpas, Aprobacion, Saludo, Insulto, Agradecimiento",1
+,66324,107,"Agradecimiento, Rechazo, Insulto",1
+,66325,108,"Aprobacion, Amenaza, Agradecimiento, Saludo, Agradecimiento, Agradecimiento, Pedir Disculpas, Orden Amenazante",1
+,66326,110,Orden Amistosa,1
+,66327,110,"Aprobacion, Aprobacion, Orden Amistosa, Pedir Disculpas",1
+,66328,110,"Pedir Disculpas, Aprobacion, Orden Amistosa, Pedir Disculpas, Pedir Disculpas",1
+,66329,108,"Agradecimiento, Orden Amenazante, Orden Amenazante, Orden Amenazante, Pedir Disculpas, Orden Amistosa, Rechazo, Orden Amenazante, Aprobacion, Rechazo",1
+,66330,107,"Insulto, Orden Amenazante, Pedir Disculpas, Pedir Disculpas, Aprobacion, Agradecimiento",1
+,66331,109,"Insulto, Agradecimiento, Orden Amistosa",1
+,66332,108,"Amenaza, Aprobacion, Orden Amistosa, Rechazo, Pedido de ayuda",1
+,66333,108,"Orden Amenazante, Aprobacion, Agradecimiento, Orden Amistosa, Aprobacion, Orden Amistosa, Insulto, Amenaza, Agradecimiento, Aprobacion",1
+,66334,107,"Orden Amenazante, Pedir Disculpas, Agradecimiento",1
+,66335,109,"Orden Amistosa, Rechazo, Saludo",1
+,66336,110,"Saludo, Orden Amistosa",1
+,66337,107,"Pedido de ayuda, Aprobacion, Aprobacion, Pedir Disculpas, Pedir Disculpas",1
+,66338,108,"Saludo, Rechazo, Rechazo, Pedir Disculpas, Amenaza, Amenaza, Agradecimiento, Agradecimiento",1
+,66339,107,"Orden Amenazante, Pedir Disculpas, Orden Amistosa, Pedir Disculpas, Orden Amistosa",1
+,66340,108,"Insulto, Pedido de ayuda, Saludo, Orden Amistosa, Pedir Disculpas",1
+,66341,109,"Rechazo, Agradecimiento",1
+,66342,110,"Saludo, Agradecimiento, Aprobacion, Aprobacion, Aprobacion",1
+,66343,109,"Pedir Disculpas, Agradecimiento, Insulto, Aprobacion, Saludo",1
+,66344,108,"Agradecimiento, Agradecimiento, Aprobacion, Orden Amenazante, Pedido de ayuda, Saludo, Saludo, Agradecimiento, Saludo",1
+,66345,108,Orden Amenazante,1
+,66346,108,"Pedir Disculpas, Orden Amenazante, Insulto, Pedir Disculpas, Orden Amistosa, Orden Amenazante, Saludo, Orden Amistosa",1
+,66347,108,"Pedido de ayuda, Pedir Disculpas, Aprobacion, Pedir Disculpas, Insulto, Pedido de ayuda, Aprobacion, Orden Amenazante, Saludo, Amenaza",1
+,66348,110,"Pedir Disculpas, Pedir Disculpas, Agradecimiento",1
+,66349,107,"Pedido de ayuda, Rechazo, Insulto, Pedido de ayuda",1
+,66350,107,"Saludo, Pedido de ayuda, Saludo, Pedir Disculpas, Pedir Disculpas, Aprobacion",1
+,66351,109,"Insulto, Agradecimiento, Orden Amistosa, Pedir Disculpas, Aprobacion, Agradecimiento",1
+,66352,107,"Pedir Disculpas, Agradecimiento, Aprobacion, Pedir Disculpas, Pedir Disculpas, Saludo, Saludo, Orden Amistosa, Amenaza, Rechazo",1
+,66353,110,"Orden Amistosa, Saludo",1
+,66354,110,"Agradecimiento, Aprobacion, Pedir Disculpas, Aprobacion, Aprobacion",1
+,66355,110,"Rechazo, Saludo, Orden Amistosa, Orden Amistosa, Orden Amistosa, Orden Amistosa, Agradecimiento, Agradecimiento",1
+,66356,110,"Orden Amistosa, Agradecimiento",1
+,66357,107,"Amenaza, Insulto",1
+,66358,108,"Saludo, Insulto, Saludo, Aprobacion, Pedido de ayuda, Insulto, Orden Amenazante",1
+,66359,110,"Saludo, Agradecimiento, Aprobacion, Agradecimiento",1
+,66360,107,"Pedir Disculpas, Aprobacion, Pedir Disculpas, Pedido de ayuda, Amenaza, Pedir Disculpas, Agradecimiento",1
+,66361,107,"Pedir Disculpas, Aprobacion, Pedir Disculpas, Saludo, Pedir Disculpas, Orden Amenazante, Aprobacion",1
+,66362,107,"Orden Amistosa, Orden Amistosa, Pedir Disculpas, Orden Amenazante, Orden Amistosa, Agradecimiento, Pedir Disculpas, Pedir Disculpas, Aprobacion, Agradecimiento",1
+,66363,110,"Orden Amistosa, Orden Amistosa, Saludo, Pedir Disculpas, Agradecimiento",1
+,66364,109,"Pedir Disculpas, Saludo, Pedido de ayuda, Aprobacion, Saludo",1
+,66365,109,"Pedir Disculpas, Pedir Disculpas, Orden Amistosa, Rechazo, Agradecimiento, Pedir Disculpas, Orden Amistosa, Saludo, Aprobacion, Saludo",1
+,66366,109,"Orden Amistosa, Pedir Disculpas, Aprobacion, Orden Amenazante, Saludo, Agradecimiento, Saludo",1
+,66367,107,"Pedir Disculpas, Agradecimiento, Aprobacion, Orden Amenazante, Aprobacion, Saludo, Orden Amistosa",1
+,66368,108,"Orden Amistosa, Rechazo, Pedir Disculpas, Pedir Disculpas, Aprobacion, Amenaza, Pedido de ayuda, Agradecimiento, Saludo",1
+,66369,108,"Insulto, Pedir Disculpas, Pedido de ayuda, Saludo, Pedido de ayuda, Pedido de ayuda",1
+,66370,110,"Pedir Disculpas, Agradecimiento, Pedir Disculpas, Agradecimiento, Saludo",1
+,66371,110,"Agradecimiento, Aprobacion, Agradecimiento, Orden Amistosa, Agradecimiento, Pedir Disculpas, Orden Amistosa",1
+,66372,107,"Aprobacion, Agradecimiento, Amenaza, Saludo, Aprobacion, Orden Amistosa, Pedido de ayuda",1
+,66373,110,"Agradecimiento, Saludo, Pedir Disculpas, Orden Amistosa, Saludo, Saludo",1
+,66374,109,"Saludo, Orden Amenazante, Pedir Disculpas, Pedir Disculpas, Saludo, Aprobacion, Saludo, Aprobacion, Orden Amistosa, Saludo",1
+,66375,110,"Saludo, Orden Amistosa, Orden Amistosa, Agradecimiento",1
+,66376,110,"Agradecimiento, Aprobacion, Aprobacion",1
+,66377,107,"Orden Amistosa, Amenaza, Agradecimiento",1
+,66378,110,"Pedir Disculpas, Agradecimiento, Saludo, Agradecimiento, Aprobacion, Orden Amistosa, Pedir Disculpas, Agradecimiento",1
+,66379,108,"Agradecimiento, Pedir Disculpas, Pedir Disculpas, Agradecimiento, Pedir Disculpas, Agradecimiento, Pedido de ayuda, Amenaza, Insulto, Rechazo",1
+,66380,109,"Pedido de ayuda, Agradecimiento, Aprobacion, Saludo, Orden Amistosa, Orden Amistosa, Agradecimiento, Orden Amistosa",1
+,66381,110,"Aprobacion, Aprobacion, Orden Amistosa, Pedir Disculpas, Pedir Disculpas",1
+,66382,109,"Agradecimiento, Pedir Disculpas, Pedido de ayuda, Aprobacion",1
+,66383,109,"Saludo, Pedir Disculpas, Agradecimiento, Saludo, Aprobacion, Saludo, Amenaza, Saludo, Saludo",1
+,66384,110,"Orden Amistosa, Saludo, Agradecimiento, Saludo, Saludo, Aprobacion",1
+,66385,107,"Saludo, Agradecimiento, Orden Amistosa, Insulto, Rechazo",1
+,66386,110,"Saludo, Aprobacion, Saludo",1
+,66387,108,"Saludo, Amenaza, Orden Amenazante, Insulto, Insulto, Pedir Disculpas",1
+,66388,107,"Agradecimiento, Pedir Disculpas, Agradecimiento, Amenaza, Aprobacion, Orden Amistosa",1
+,66389,107,"Saludo, Saludo, Aprobacion, Rechazo, Saludo, Agradecimiento, Aprobacion, Orden Amistosa, Rechazo, Orden Amenazante",1
+,66390,108,"Orden Amenazante, Agradecimiento, Saludo, Pedido de ayuda, Orden Amistosa, Pedir Disculpas, Orden Amistosa, Agradecimiento, Pedir Disculpas, Agradecimiento",1
+,66391,107,"Pedir Disculpas, Amenaza, Orden Amistosa, Aprobacion, Aprobacion, Agradecimiento, Orden Amenazante, Aprobacion, Orden Amistosa",1
+,66392,109,"Aprobacion, Aprobacion, Orden Amistosa, Rechazo, Agradecimiento",1
+,66393,109,Insulto,1
+,66394,108,"Insulto, Saludo, Pedir Disculpas, Orden Amenazante, Orden Amenazante, Amenaza",1
+,66395,110,"Agradecimiento, Aprobacion, Pedir Disculpas, Saludo, Pedir Disculpas, Aprobacion, Aprobacion",1
+,66396,108,"Agradecimiento, Pedido de ayuda, Pedido de ayuda, Rechazo, Orden Amistosa, Pedir Disculpas",1
+,66397,108,"Amenaza, Orden Amenazante, Pedido de ayuda, Pedido de ayuda, Insulto, Aprobacion",1
+,66398,108,"Agradecimiento, Agradecimiento, Orden Amistosa, Saludo, Insulto, Amenaza",1
+,66399,109,"Rechazo, Orden Amistosa, Orden Amistosa, Pedir Disculpas",1
+,66400,107,"Orden Amistosa, Aprobacion, Pedir Disculpas, Orden Amenazante, Saludo, Rechazo, Pedir Disculpas, Saludo, Orden Amistosa, Orden Amenazante",1
+,66401,109,"Aprobacion, Orden Amistosa, Aprobacion, Insulto, Agradecimiento, Pedir Disculpas, Aprobacion, Saludo, Orden Amistosa, Orden Amistosa",1
+,66402,107,"Orden Amistosa, Saludo, Orden Amenazante, Orden Amistosa, Orden Amenazante, Saludo, Agradecimiento, Agradecimiento",1
+,66403,110,"Saludo, Saludo, Orden Amistosa",1
+,66404,108,"Pedido de ayuda, Aprobacion, Insulto, Agradecimiento, Pedido de ayuda, Insulto, Pedir Disculpas, Agradecimiento, Pedir Disculpas",1
+,66405,108,"Orden Amenazante, Pedir Disculpas, Orden Amenazante, Agradecimiento, Agradecimiento, Orden Amistosa, Agradecimiento, Saludo, Pedir Disculpas, Orden Amenazante",1
+,66406,108,"Orden Amistosa, Amenaza, Orden Amistosa, Saludo, Amenaza, Insulto, Orden Amistosa, Amenaza, Insulto, Pedir Disculpas",1
+,66407,107,"Aprobacion, Aprobacion, Pedido de ayuda",1
+,66408,108,"Orden Amistosa, Saludo, Insulto, Orden Amenazante, Orden Amenazante, Pedido de ayuda, Agradecimiento, Agradecimiento, Rechazo",1
+,66409,107,"Orden Amistosa, Aprobacion, Orden Amenazante",1
+,66410,109,"Agradecimiento, Orden Amistosa, Pedir Disculpas, Agradecimiento, Aprobacion, Pedir Disculpas, Saludo, Insulto",1
+,66411,110,"Agradecimiento, Agradecimiento, Agradecimiento, Saludo, Pedir Disculpas, Aprobacion",1
+,66412,107,"Pedir Disculpas, Pedir Disculpas, Agradecimiento, Aprobacion, Amenaza, Orden Amistosa, Agradecimiento",1
+,66413,107,"Insulto, Insulto",1
+,66414,110,"Agradecimiento, Orden Amistosa",1
+,66415,107,"Saludo, Pedir Disculpas, Aprobacion, Aprobacion, Pedir Disculpas, Aprobacion, Insulto, Pedido de ayuda",1
+,66416,109,"Saludo, Rechazo, Insulto, Aprobacion, Aprobacion, Saludo, Aprobacion, Orden Amistosa, Agradecimiento, Rechazo",1
+,66417,108,"Amenaza, Pedir Disculpas, Pedido de ayuda, Amenaza, Orden Amistosa, Insulto, Agradecimiento, Orden Amistosa, Amenaza, Orden Amistosa",1
+,66418,108,"Rechazo, Orden Amenazante, Aprobacion, Pedir Disculpas, Insulto, Pedir Disculpas, Pedido de ayuda",1
+,66419,107,"Aprobacion, Aprobacion, Orden Amenazante, Pedir Disculpas, Rechazo, Pedir Disculpas, Agradecimiento, Orden Amistosa, Aprobacion, Saludo",1
+,66420,110,"Saludo, Orden Amistosa, Pedir Disculpas",1
+,66421,109,"Pedir Disculpas, Pedido de ayuda, Pedir Disculpas, Orden Amistosa, Orden Amistosa, Pedir Disculpas, Agradecimiento",1
+,66422,110,"Saludo, Pedir Disculpas, Rechazo, Orden Amistosa, Aprobacion, Aprobacion, Orden Amistosa",1
+,66423,108,"Aprobacion, Pedido de ayuda, Pedido de ayuda, Pedido de ayuda, Orden Amistosa",1
+,66424,110,"Aprobacion, Agradecimiento, Aprobacion, Orden Amistosa, Agradecimiento, Pedir Disculpas",1
+,66425,110,"Pedir Disculpas, Pedir Disculpas, Pedir Disculpas, Saludo, Saludo, Orden Amistosa, Aprobacion",1
+,66426,107,"Orden Amistosa, Saludo, Agradecimiento, Agradecimiento, Aprobacion, Orden Amistosa, Aprobacion, Amenaza",1
+,66427,108,"Pedir Disculpas, Orden Amistosa, Aprobacion, Agradecimiento, Aprobacion, Saludo, Agradecimiento, Orden Amenazante, Amenaza",1
+,66428,107,Pedido de ayuda,1
+,66429,110,"Aprobacion, Agradecimiento, Agradecimiento",1
+,66430,110,"Rechazo, Agradecimiento, Agradecimiento, Aprobacion, Pedir Disculpas, Aprobacion, Aprobacion",1
+,66431,107,"Orden Amistosa, Orden Amistosa, Pedido de ayuda, Pedir Disculpas, Pedir Disculpas, Saludo",1
+,66432,107,"Agradecimiento, Orden Amenazante, Pedir Disculpas, Orden Amistosa, Orden Amistosa, Saludo, Aprobacion, Agradecimiento",1
+,66433,109,"Pedir Disculpas, Aprobacion, Pedir Disculpas, Pedir Disculpas, Saludo, Saludo, Aprobacion, Agradecimiento, Amenaza",1
+,66434,110,"Saludo, Pedir Disculpas, Aprobacion",1
+,66435,110,"Orden Amistosa, Rechazo",1
+,66436,107,"Agradecimiento, Amenaza, Saludo, Orden Amistosa, Saludo",1
+,66437,110,"Agradecimiento, Agradecimiento",1
+,66438,107,"Pedir Disculpas, Amenaza, Pedir Disculpas, Agradecimiento, Agradecimiento, Saludo, Agradecimiento, Insulto, Pedir Disculpas, Rechazo",1
+,66439,108,"Orden Amenazante, Agradecimiento, Agradecimiento, Saludo, Orden Amenazante, Pedir Disculpas, Orden Amistosa, Pedir Disculpas, Pedir Disculpas",1
+,66440,108,"Orden Amenazante, Aprobacion, Aprobacion, Orden Amistosa, Rechazo, Saludo, Aprobacion, Orden Amistosa",1
+,66441,107,"Amenaza, Aprobacion, Aprobacion, Pedir Disculpas",1
+,66442,107,"Orden Amistosa, Agradecimiento, Agradecimiento, Aprobacion, Saludo, Amenaza, Saludo",1
+,66443,107,"Rechazo, Pedido de ayuda, Agradecimiento, Saludo",1
+,66444,108,"Aprobacion, Aprobacion, Amenaza, Amenaza, Aprobacion, Orden Amistosa, Amenaza, Insulto, Aprobacion",1
+,66445,110,"Orden Amistosa, Orden Amistosa, Orden Amistosa, Aprobacion, Saludo, Agradecimiento, Agradecimiento",1
+,66446,107,"Orden Amistosa, Aprobacion, Saludo, Insulto, Aprobacion, Aprobacion, Pedido de ayuda",1
+,66447,107,"Saludo, Orden Amistosa, Insulto, Saludo, Orden Amistosa, Pedir Disculpas, Insulto, Aprobacion, Orden Amistosa",1
+,66448,109,"Insulto, Orden Amistosa, Saludo, Aprobacion, Agradecimiento, Pedir Disculpas",1
+,66449,110,"Agradecimiento, Agradecimiento, Pedir Disculpas",1
+,66450,108,"Saludo, Rechazo, Orden Amistosa, Agradecimiento, Aprobacion, Saludo, Insulto, Insulto, Orden Amenazante, Insulto",1
+,66451,110,"Agradecimiento, Orden Amistosa, Saludo",1
+,66452,108,"Amenaza, Saludo, Saludo, Orden Amenazante, Aprobacion, Pedir Disculpas, Pedido de ayuda, Aprobacion, Pedir Disculpas, Saludo",1
+,66453,110,"Pedir Disculpas, Aprobacion",1
+,66454,110,"Saludo, Agradecimiento",1
+,66455,108,"Pedir Disculpas, Saludo, Saludo, Orden Amistosa, Insulto, Aprobacion, Rechazo, Aprobacion, Orden Amenazante, Orden Amistosa",1
+,66456,108,"Agradecimiento, Saludo, Pedir Disculpas, Saludo, Aprobacion, Pedido de ayuda, Amenaza, Pedir Disculpas",1
+,66457,107,"Rechazo, Saludo, Aprobacion, Pedir Disculpas, Pedir Disculpas, Saludo, Orden Amenazante",1
+,66458,107,"Aprobacion, Aprobacion, Orden Amenazante, Agradecimiento, Saludo, Orden Amistosa, Aprobacion, Pedir Disculpas",1
+,66459,110,"Pedir Disculpas, Aprobacion, Orden Amistosa, Rechazo, Orden Amistosa",1
+,66460,108,"Aprobacion, Pedido de ayuda, Orden Amistosa, Orden Amistosa, Saludo, Insulto, Insulto, Pedir Disculpas, Amenaza, Amenaza",1
+,66461,108,"Pedido de ayuda, Insulto",1
+,66462,110,"Rechazo, Orden Amistosa, Pedir Disculpas, Agradecimiento",1
+,66463,110,"Saludo, Pedir Disculpas, Agradecimiento, Agradecimiento, Orden Amistosa",1
+,66464,107,"Orden Amistosa, Saludo, Saludo, Agradecimiento, Orden Amistosa, Orden Amistosa, Amenaza",1
+,66465,108,"Pedir Disculpas, Orden Amenazante, Aprobacion, Pedir Disculpas, Amenaza, Aprobacion, Orden Amistosa, Agradecimiento",1
+,66466,110,"Aprobacion, Saludo",1
+,66467,109,"Pedir Disculpas, Pedir Disculpas, Aprobacion, Pedido de ayuda, Aprobacion",1
+,66468,107,"Aprobacion, Orden Amenazante, Saludo, Agradecimiento, Pedir Disculpas, Orden Amistosa, Agradecimiento, Orden Amistosa",1
+,66469,108,"Orden Amenazante, Aprobacion, Orden Amenazante, Agradecimiento, Aprobacion, Saludo, Saludo, Orden Amenazante, Agradecimiento, Insulto",1
+,66470,109,"Orden Amistosa, Orden Amistosa, Insulto, Agradecimiento",1
+,66471,108,"Pedido de ayuda, Aprobacion, Orden Amenazante, Saludo",1
+,66472,107,"Aprobacion, Amenaza, Aprobacion, Aprobacion, Aprobacion, Pedir Disculpas, Aprobacion, Orden Amistosa, Orden Amistosa, Pedir Disculpas",1
+,66473,107,"Agradecimiento, Agradecimiento, Agradecimiento, Orden Amistosa, Orden Amistosa, Agradecimiento, Aprobacion, Pedir Disculpas, Amenaza, Orden Amistosa",1
+,66474,109,"Agradecimiento, Agradecimiento, Insulto, Orden Amistosa",1
+,66475,110,"Pedir Disculpas, Orden Amistosa, Agradecimiento, Orden Amistosa, Agradecimiento, Pedir Disculpas",1
+,66476,110,"Saludo, Saludo, Orden Amistosa, Aprobacion, Pedir Disculpas, Pedir Disculpas, Agradecimiento, Orden Amistosa",1
+,66477,110,"Aprobacion, Orden Amistosa",1
+,66478,110,"Saludo, Pedir Disculpas, Agradecimiento, Saludo, Aprobacion",1
+,66479,107,"Orden Amistosa, Pedir Disculpas, Saludo, Insulto, Orden Amenazante, Insulto, Aprobacion, Aprobacion, Saludo",1
+,66480,108,"Insulto, Pedido de ayuda, Pedir Disculpas, Orden Amistosa, Agradecimiento",1
+,66481,108,"Orden Amenazante, Saludo, Aprobacion, Aprobacion, Pedir Disculpas, Aprobacion, Amenaza",1
+,66482,109,"Aprobacion, Agradecimiento, Orden Amistosa, Insulto, Saludo",1
+,66483,110,"Aprobacion, Orden Amistosa, Rechazo, Saludo, Saludo, Aprobacion, Aprobacion, Orden Amistosa, Pedir Disculpas",1
+,66484,109,"Orden Amistosa, Aprobacion, Amenaza, Pedir Disculpas",1
+,66485,108,"Orden Amenazante, Orden Amistosa, Agradecimiento, Pedido de ayuda, Amenaza, Orden Amistosa, Pedir Disculpas, Orden Amistosa",1
+,66486,108,"Pedir Disculpas, Pedir Disculpas, Pedir Disculpas, Agradecimiento, Insulto, Saludo, Saludo, Amenaza, Aprobacion, Rechazo",1
+,66487,108,"Pedir Disculpas, Agradecimiento, Saludo, Pedir Disculpas, Amenaza, Pedido de ayuda, Aprobacion, Pedir Disculpas, Agradecimiento",1
+,66488,108,"Orden Amistosa, Pedido de ayuda, Pedido de ayuda, Orden Amistosa, Aprobacion, Pedido de ayuda",1
+,66489,108,"Pedir Disculpas, Insulto, Agradecimiento, Saludo, Orden Amenazante, Orden Amenazante, Aprobacion, Rechazo",1
+,66490,107,"Pedido de ayuda, Aprobacion, Saludo, Saludo, Aprobacion",1
+,66491,110,"Agradecimiento, Aprobacion",1
+,66492,107,"Pedido de ayuda, Agradecimiento, Pedir Disculpas, Pedir Disculpas, Orden Amistosa, Aprobacion, Rechazo, Agradecimiento",1
+,66493,108,"Pedido de ayuda, Saludo, Orden Amenazante, Pedir Disculpas, Pedir Disculpas",1
+,66494,110,"Aprobacion, Saludo, Agradecimiento",1
+,66495,107,"Aprobacion, Orden Amistosa, Orden Amistosa, Saludo, Orden Amistosa, Insulto, Pedido de ayuda, Saludo, Aprobacion",1
+,66496,110,"Orden Amistosa, Aprobacion, Aprobacion",1
+,66497,107,"Aprobacion, Orden Amistosa, Pedido de ayuda",1
+,66498,109,"Insulto, Rechazo, Agradecimiento, Aprobacion, Agradecimiento",1
+,66499,109,"Saludo, Amenaza, Pedir Disculpas, Pedir Disculpas, Saludo, Rechazo",1
+,66500,107,"Orden Amistosa, Orden Amenazante, Orden Amistosa, Orden Amistosa, Aprobacion, Orden Amistosa, Orden Amistosa",1
+,66501,109,"Orden Amistosa, Aprobacion, Insulto, Aprobacion, Aprobacion",1
+,66502,109,"Orden Amistosa, Agradecimiento, Pedido de ayuda",1
+,66503,108,"Pedir Disculpas, Agradecimiento, Pedir Disculpas, Orden Amistosa, Orden Amistosa, Insulto, Orden Amenazante, Saludo, Pedido de ayuda, Agradecimiento",1
+,66504,109,"Saludo, Orden Amistosa, Aprobacion, Pedido de ayuda, Orden Amistosa, Orden Amistosa",1
+,66505,108,"Insulto, Amenaza",1
+,66506,108,"Saludo, Amenaza",1
+,66507,108,"Aprobacion, Aprobacion, Amenaza, Amenaza, Agradecimiento, Pedido de ayuda",1
+,66508,110,"Agradecimiento, Pedir Disculpas",1
+,66509,108,"Aprobacion, Saludo, Pedido de ayuda, Orden Amenazante, Orden Amistosa, Agradecimiento",1
+,66510,108,"Amenaza, Orden Amenazante, Orden Amistosa",1
+,66511,108,"Orden Amenazante, Orden Amistosa, Insulto, Pedir Disculpas, Orden Amistosa, Rechazo, Agradecimiento, Pedir Disculpas, Agradecimiento",1
+,66512,109,Rechazo,1
+,66513,107,"Insulto, Insulto, Orden Amistosa, Rechazo, Aprobacion",1
+,66514,108,"Agradecimiento, Orden Amistosa, Orden Amistosa, Rechazo, Aprobacion, Rechazo, Saludo, Pedido de ayuda, Pedido de ayuda",1
+,66515,108,"Amenaza, Pedir Disculpas, Amenaza, Agradecimiento, Orden Amistosa, Aprobacion",1
+,66516,110,"Saludo, Aprobacion, Pedir Disculpas",1
+,66517,108,"Saludo, Orden Amistosa, Pedir Disculpas, Pedido de ayuda, Amenaza, Pedir Disculpas",1
+,66518,108,"Agradecimiento, Orden Amenazante, Orden Amenazante, Aprobacion, Agradecimiento, Rechazo, Orden Amistosa, Insulto, Orden Amistosa, Aprobacion",1
+,66519,108,"Orden Amistosa, Aprobacion, Orden Amistosa, Agradecimiento, Orden Amistosa, Aprobacion, Pedido de ayuda, Amenaza, Saludo, Rechazo",1
+,66520,109,"Pedir Disculpas, Orden Amistosa, Pedido de ayuda",1
+,66521,110,"Orden Amistosa, Pedir Disculpas, Saludo, Saludo, Agradecimiento, Agradecimiento",1
+,66522,107,"Insulto, Pedir Disculpas, Orden Amenazante, Pedir Disculpas, Agradecimiento, Insulto, Saludo, Pedir Disculpas, Saludo, Insulto",1
+,66523,108,"Rechazo, Orden Amenazante, Pedir Disculpas, Orden Amenazante, Pedir Disculpas, Pedir Disculpas, Pedido de ayuda, Orden Amistosa",1
+,66524,108,"Orden Amistosa, Orden Amenazante, Orden Amistosa, Aprobacion, Pedir Disculpas, Orden Amenazante, Orden Amenazante",1
+,66525,108,Amenaza,1
+,66526,109,"Aprobacion, Aprobacion, Saludo, Saludo, Insulto, Agradecimiento",1
+,66527,108,"Agradecimiento, Pedir Disculpas, Aprobacion, Pedido de ayuda, Insulto, Pedir Disculpas, Insulto",1
+,66528,107,"Amenaza, Agradecimiento, Orden Amistosa",1
+,66529,109,"Orden Amistosa, Saludo, Saludo, Pedido de ayuda, Saludo, Saludo, Pedir Disculpas",1
+,66530,110,"Saludo, Pedir Disculpas, Orden Amistosa, Agradecimiento, Aprobacion, Saludo, Agradecimiento, Aprobacion",1
+,66531,108,"Orden Amenazante, Insulto, Pedir Disculpas",1
+,66532,108,"Aprobacion, Orden Amistosa, Rechazo, Pedido de ayuda, Pedido de ayuda, Aprobacion, Saludo",1
+,66533,107,"Aprobacion, Rechazo, Aprobacion, Pedir Disculpas, Insulto, Aprobacion, Aprobacion, Insulto",1
+,66534,110,"Saludo, Pedir Disculpas, Orden Amistosa, Pedido de ayuda, Saludo, Saludo, Pedir Disculpas, Aprobacion, Saludo",1
+,66535,108,"Amenaza, Saludo, Agradecimiento, Orden Amenazante, Saludo, Pedir Disculpas, Pedido de ayuda",1
+,66536,110,"Saludo, Rechazo, Aprobacion, Orden Amistosa, Aprobacion, Orden Amistosa, Agradecimiento, Pedir Disculpas",1
+,66537,110,"Pedir Disculpas, Orden Amistosa, Aprobacion, Agradecimiento",1
+,66538,108,"Orden Amistosa, Amenaza, Orden Amistosa, Insulto, Pedir Disculpas, Orden Amenazante, Insulto, Aprobacion, Aprobacion, Aprobacion",1
+,66539,110,"Orden Amistosa, Agradecimiento, Orden Amistosa, Aprobacion, Pedir Disculpas",1
+,66540,108,"Amenaza, Agradecimiento, Saludo, Orden Amenazante, Amenaza, Orden Amenazante",1
+,66541,110,"Pedir Disculpas, Orden Amistosa, Orden Amistosa",1
+,66542,108,"Rechazo, Saludo, Agradecimiento, Orden Amistosa, Pedido de ayuda, Agradecimiento, Insulto, Insulto, Pedir Disculpas",1
+,66543,108,"Insulto, Saludo, Pedir Disculpas, Rechazo, Amenaza, Orden Amistosa",1
+,66544,108,"Pedir Disculpas, Orden Amistosa, Rechazo, Rechazo, Amenaza, Orden Amenazante, Insulto",1
+,66545,107,"Agradecimiento, Rechazo, Pedido de ayuda, Saludo, Orden Amistosa, Agradecimiento, Orden Amistosa, Insulto, Saludo, Pedir Disculpas",1
+,66546,110,"Aprobacion, Orden Amistosa, Orden Amistosa, Pedir Disculpas, Saludo, Rechazo",1
+,66547,107,"Aprobacion, Orden Amistosa, Rechazo, Pedido de ayuda, Orden Amistosa, Saludo, Aprobacion, Agradecimiento, Orden Amistosa, Agradecimiento",1
+,66548,108,"Agradecimiento, Amenaza, Amenaza",1
+,66549,110,"Orden Amistosa, Rechazo, Orden Amistosa, Aprobacion, Aprobacion, Aprobacion, Agradecimiento, Pedir Disculpas, Orden Amistosa",1
+,66550,108,"Agradecimiento, Saludo, Saludo, Rechazo, Pedido de ayuda",1
+,66551,108,"Orden Amenazante, Agradecimiento, Agradecimiento, Pedir Disculpas, Orden Amenazante, Saludo, Aprobacion",1
+,66552,108,"Aprobacion, Pedir Disculpas, Orden Amistosa, Amenaza, Pedido de ayuda, Agradecimiento",1
+,66553,108,"Amenaza, Rechazo, Orden Amenazante, Orden Amistosa, Agradecimiento, Agradecimiento",1
+,66554,108,"Orden Amistosa, Saludo, Pedido de ayuda, Aprobacion, Agradecimiento, Saludo, Pedir Disculpas",1
+,66555,108,"Saludo, Orden Amenazante, Orden Amenazante, Orden Amenazante, Insulto, Aprobacion, Saludo",1
+,66556,110,"Aprobacion, Saludo, Rechazo",1
+,66557,107,"Pedir Disculpas, Orden Amenazante, Pedir Disculpas, Aprobacion, Aprobacion, Saludo, Pedir Disculpas, Aprobacion, Pedir Disculpas",1
+,66558,107,"Insulto, Agradecimiento, Orden Amistosa, Orden Amistosa, Pedir Disculpas, Pedido de ayuda, Agradecimiento",1
+,66559,107,"Agradecimiento, Agradecimiento, Amenaza, Rechazo, Orden Amistosa, Agradecimiento",1
+,66560,109,"Orden Amistosa, Agradecimiento, Insulto",1
+,66561,107,"Orden Amistosa, Saludo, Saludo, Amenaza",1
+,66562,107,"Pedir Disculpas, Agradecimiento, Agradecimiento, Aprobacion, Saludo, Amenaza, Saludo, Pedido de ayuda, Orden Amistosa, Amenaza",1
+,66563,109,"Saludo, Pedir Disculpas, Aprobacion, Saludo, Aprobacion, Agradecimiento, Pedido de ayuda, Agradecimiento",1
+,66564,107,"Rechazo, Agradecimiento, Orden Amistosa, Insulto, Agradecimiento, Orden Amenazante, Agradecimiento, Orden Amistosa",1
+,66565,107,"Aprobacion, Orden Amistosa, Agradecimiento, Aprobacion, Orden Amenazante, Orden Amistosa, Agradecimiento, Pedir Disculpas",1
+,66566,108,"Aprobacion, Aprobacion, Pedido de ayuda, Orden Amenazante, Aprobacion",1
+,66567,107,"Aprobacion, Aprobacion, Agradecimiento, Agradecimiento, Rechazo, Orden Amenazante, Saludo, Pedir Disculpas",1
+,66568,107,"Orden Amistosa, Orden Amenazante",1
+,66569,109,"Agradecimiento, Insulto, Rechazo, Saludo, Pedir Disculpas, Pedir Disculpas, Pedir Disculpas, Rechazo, Saludo, Pedir Disculpas",1
+,66570,110,"Pedir Disculpas, Saludo, Saludo, Agradecimiento, Aprobacion, Saludo",1
+,66571,107,"Saludo, Agradecimiento, Aprobacion, Agradecimiento, Aprobacion, Saludo, Saludo, Aprobacion, Pedido de ayuda, Saludo",1
+,66572,109,"Aprobacion, Saludo, Orden Amistosa, Aprobacion, Aprobacion, Agradecimiento, Amenaza",1
+,66573,108,"Saludo, Orden Amenazante, Amenaza, Pedir Disculpas, Saludo, Agradecimiento",1
+,66574,108,"Orden Amenazante, Agradecimiento, Aprobacion, Insulto, Insulto",1
+,66575,109,"Agradecimiento, Orden Amistosa, Aprobacion, Pedir Disculpas, Orden Amistosa, Insulto, Orden Amistosa, Pedir Disculpas",1
+,66576,109,"Agradecimiento, Orden Amistosa, Rechazo, Orden Amenazante, Pedir Disculpas, Agradecimiento, Aprobacion",1
+,66577,109,"Pedir Disculpas, Agradecimiento, Saludo, Orden Amistosa, Orden Amistosa, Insulto, Orden Amistosa, Orden Amistosa",1
+,66578,110,"Orden Amistosa, Saludo, Pedir Disculpas, Pedir Disculpas, Aprobacion, Aprobacion, Rechazo, Orden Amistosa",1
+,66579,110,"Aprobacion, Rechazo, Saludo, Aprobacion, Pedir Disculpas",1
+,66580,107,"Rechazo, Pedir Disculpas, Amenaza, Pedir Disculpas, Saludo, Saludo, Agradecimiento, Pedido de ayuda",1
+,66581,109,"Saludo, Amenaza, Pedir Disculpas",1
+,66582,107,"Pedir Disculpas, Orden Amistosa, Amenaza, Agradecimiento, Amenaza, Orden Amistosa, Saludo",1
+,66583,107,"Agradecimiento, Agradecimiento, Aprobacion, Saludo, Amenaza, Aprobacion",1
+,66584,108,"Pedir Disculpas, Pedido de ayuda, Aprobacion, Agradecimiento, Pedido de ayuda",1
+,66585,108,"Pedido de ayuda, Amenaza, Amenaza, Orden Amistosa, Saludo",1
+,66586,107,"Aprobacion, Orden Amistosa, Amenaza, Rechazo",1
+,66587,107,"Orden Amistosa, Orden Amistosa, Amenaza, Aprobacion, Pedido de ayuda, Insulto, Orden Amistosa, Amenaza",1
+,66588,109,"Insulto, Aprobacion, Aprobacion",1
+,66589,107,"Insulto, Orden Amistosa, Insulto",1
+,66590,108,"Orden Amenazante, Amenaza, Saludo",1
+,66591,108,"Orden Amenazante, Aprobacion, Saludo, Insulto, Insulto, Saludo, Pedir Disculpas",1
+,66592,108,"Pedir Disculpas, Aprobacion, Insulto, Rechazo, Aprobacion, Amenaza, Insulto",1
+,66593,108,"Aprobacion, Orden Amistosa, Saludo, Amenaza, Orden Amenazante, Orden Amistosa, Pedir Disculpas, Rechazo",1
+,66594,107,"Agradecimiento, Pedir Disculpas, Saludo, Insulto, Rechazo, Aprobacion, Agradecimiento, Amenaza",1
+,66595,109,"Aprobacion, Insulto, Orden Amistosa, Agradecimiento, Aprobacion",1
+,66596,110,"Pedir Disculpas, Orden Amistosa",1
+,66597,107,"Orden Amenazante, Amenaza, Orden Amistosa, Pedir Disculpas, Aprobacion",1
+,66598,109,"Orden Amistosa, Saludo, Saludo, Pedir Disculpas, Insulto, Pedir Disculpas",1
+,66599,110,"Aprobacion, Orden Amistosa, Saludo, Agradecimiento, Pedir Disculpas, Aprobacion, Rechazo",1
+,66600,107,"Aprobacion, Aprobacion, Orden Amistosa, Pedir Disculpas, Orden Amistosa, Pedido de ayuda, Rechazo, Saludo, Insulto",1
+,66601,107,"Orden Amenazante, Saludo",1
+,66602,109,"Orden Amistosa, Orden Amistosa, Orden Amenazante, Aprobacion",1
+,66603,110,"Pedir Disculpas, Pedir Disculpas, Agradecimiento, Orden Amistosa, Pedir Disculpas, Rechazo, Saludo, Aprobacion, Orden Amistosa",1
+,66604,109,"Agradecimiento, Orden Amenazante, Saludo, Aprobacion",1
+,66605,108,"Amenaza, Aprobacion, Saludo, Agradecimiento, Orden Amenazante, Aprobacion",1
+,66606,110,"Pedir Disculpas, Agradecimiento, Agradecimiento",1
+,66607,110,"Agradecimiento, Rechazo, Saludo, Agradecimiento",1
+,66608,110,"Agradecimiento, Aprobacion, Pedir Disculpas, Aprobacion, Aprobacion, Aprobacion, Orden Amistosa, Saludo, Agradecimiento",1
+,66609,110,"Aprobacion, Pedir Disculpas, Orden Amistosa",1
+,66610,110,"Agradecimiento, Pedir Disculpas, Orden Amistosa, Agradecimiento",1
+,66611,109,"Aprobacion, Orden Amistosa, Rechazo, Saludo, Pedir Disculpas, Amenaza",1
+,66612,109,"Orden Amistosa, Aprobacion, Amenaza, Saludo, Agradecimiento",1
+,66614,108,"Saludo, Agradecimiento, Amenaza, Aprobacion, Pedido de ayuda, Pedir Disculpas, Rechazo",1
+,66615,110,"Saludo, Aprobacion, Agradecimiento, Agradecimiento, Agradecimiento, Rechazo, Orden Amistosa",1
+,66616,107,"Pedir Disculpas, Orden Amistosa, Aprobacion, Pedido de ayuda, Insulto, Orden Amistosa, Rechazo",1
+,66617,108,"Agradecimiento, Orden Amistosa, Amenaza, Orden Amenazante, Saludo, Aprobacion",1
+,66618,107,"Aprobacion, Amenaza",1
+,66619,109,"Saludo, Insulto, Pedir Disculpas",1
+,66620,109,"Aprobacion, Orden Amistosa, Pedir Disculpas, Insulto, Saludo, Saludo, Insulto, Rechazo, Orden Amistosa",1
+,66621,107,"Orden Amistosa, Saludo, Pedido de ayuda, Insulto, Pedir Disculpas",1
+,66622,108,"Orden Amistosa, Insulto, Pedido de ayuda, Amenaza, Aprobacion, Rechazo, Agradecimiento, Agradecimiento, Pedido de ayuda",1
+,66623,109,"Agradecimiento, Pedir Disculpas, Rechazo, Pedido de ayuda, Agradecimiento, Orden Amistosa, Saludo, Saludo, Orden Amistosa, Agradecimiento",1
+,66624,107,"Insulto, Aprobacion, Aprobacion, Aprobacion, Amenaza, Aprobacion, Rechazo, Orden Amistosa, Aprobacion, Insulto",1
+,66625,107,"Aprobacion, Pedido de ayuda",1
+,66626,109,"Insulto, Orden Amistosa, Saludo, Saludo, Aprobacion, Agradecimiento, Pedir Disculpas",1
+,66627,110,"Aprobacion, Aprobacion, Orden Amistosa",1
+,66628,108,"Pedir Disculpas, Orden Amenazante, Orden Amistosa, Saludo, Saludo, Aprobacion, Orden Amistosa, Insulto, Insulto",1
+,66629,108,"Pedir Disculpas, Pedir Disculpas, Agradecimiento, Amenaza, Orden Amistosa, Agradecimiento, Orden Amenazante, Saludo",1
+,66630,110,"Agradecimiento, Aprobacion, Pedir Disculpas, Agradecimiento, Orden Amistosa",1
+,66631,110,"Pedir Disculpas, Saludo",1
+,66632,107,"Amenaza, Agradecimiento, Rechazo, Rechazo, Agradecimiento, Aprobacion, Orden Amenazante, Aprobacion",1
+,66633,110,"Orden Amistosa, Orden Amistosa, Aprobacion",1
+,66634,110,"Saludo, Pedir Disculpas, Aprobacion, Agradecimiento",1
+,66635,108,"Saludo, Orden Amistosa, Insulto, Aprobacion, Amenaza, Orden Amenazante, Aprobacion, Orden Amenazante",1
+,66636,107,"Agradecimiento, Pedir Disculpas, Saludo, Rechazo, Orden Amistosa, Amenaza, Agradecimiento, Agradecimiento",1
+,66637,110,"Pedir Disculpas, Pedir Disculpas, Agradecimiento, Pedir Disculpas",1
+,66638,109,"Pedir Disculpas, Pedir Disculpas, Insulto, Agradecimiento, Pedir Disculpas, Agradecimiento",1
+,66639,107,"Agradecimiento, Insulto, Aprobacion, Insulto, Amenaza, Agradecimiento, Orden Amistosa",1
+,66640,109,"Rechazo, Agradecimiento, Agradecimiento, Saludo, Insulto",1
+,66641,107,"Orden Amistosa, Aprobacion, Saludo, Saludo, Pedir Disculpas, Insulto, Saludo, Amenaza, Orden Amistosa",1
+,66642,107,"Aprobacion, Pedir Disculpas, Rechazo, Pedir Disculpas, Agradecimiento, Aprobacion, Amenaza",1
+,66643,108,"Orden Amistosa, Orden Amistosa, Orden Amistosa, Saludo, Aprobacion, Pedido de ayuda, Orden Amistosa, Saludo, Amenaza, Pedido de ayuda",1
+,66644,110,"Saludo, Saludo",1
+,66645,108,"Orden Amistosa, Agradecimiento, Amenaza, Pedido de ayuda, Orden Amenazante",1
+,66646,110,"Orden Amistosa, Orden Amistosa, Agradecimiento, Saludo, Agradecimiento",1
+,66647,108,"Amenaza, Pedido de ayuda",1
+,66648,110,"Orden Amistosa, Saludo, Saludo, Rechazo",1
+,66649,107,"Pedir Disculpas, Amenaza, Aprobacion, Orden Amistosa, Agradecimiento, Aprobacion, Agradecimiento, Agradecimiento",1
+,66650,108,"Saludo, Pedir Disculpas, Orden Amenazante, Saludo, Amenaza, Amenaza, Amenaza",1
+,66651,110,"Saludo, Agradecimiento, Aprobacion, Agradecimiento, Saludo, Orden Amistosa",1
+,66652,110,"Pedir Disculpas, Pedir Disculpas",1
+,66653,110,"Agradecimiento, Aprobacion, Saludo",1
+,66654,107,"Amenaza, Aprobacion, Insulto, Aprobacion",1
+,66655,109,"Saludo, Orden Amistosa, Amenaza, Pedir Disculpas",1
+,66656,107,"Pedir Disculpas, Pedido de ayuda, Saludo, Pedir Disculpas, Saludo, Saludo",1
+,66657,107,"Agradecimiento, Amenaza, Agradecimiento",1
+,66658,110,"Aprobacion, Aprobacion, Aprobacion",1
+,66659,107,"Pedir Disculpas, Agradecimiento, Orden Amenazante, Saludo, Agradecimiento, Rechazo, Agradecimiento, Pedido de ayuda, Pedir Disculpas, Pedir Disculpas",1
+,66660,107,"Orden Amistosa, Rechazo, Pedir Disculpas, Pedir Disculpas, Orden Amenazante, Pedir Disculpas, Agradecimiento, Pedido de ayuda, Pedir Disculpas",1
+,66661,109,"Aprobacion, Aprobacion, Aprobacion, Saludo, Aprobacion, Agradecimiento, Agradecimiento, Orden Amistosa, Pedido de ayuda",1
+,66662,109,"Amenaza, Pedir Disculpas, Saludo, Saludo, Aprobacion, Pedir Disculpas, Saludo, Agradecimiento, Saludo, Orden Amistosa",1
+,66663,107,"Insulto, Orden Amenazante, Aprobacion, Agradecimiento",1
+,66664,110,"Rechazo, Aprobacion, Aprobacion, Agradecimiento, Aprobacion, Saludo, Aprobacion, Saludo, Pedir Disculpas",1
+,66665,109,"Orden Amistosa, Saludo, Pedido de ayuda, Aprobacion, Pedir Disculpas, Insulto",1
+,66666,110,"Orden Amistosa, Aprobacion, Orden Amistosa, Orden Amistosa, Pedir Disculpas, Pedir Disculpas",1
+,66667,107,"Amenaza, Saludo, Orden Amistosa",1
+,66668,107,"Agradecimiento, Aprobacion, Pedir Disculpas, Aprobacion, Pedido de ayuda, Aprobacion, Agradecimiento, Aprobacion, Insulto",1
+,66669,109,"Pedir Disculpas, Insulto",1
+,66670,107,"Saludo, Saludo, Saludo, Orden Amistosa, Orden Amenazante",1
+,66671,109,"Insulto, Aprobacion",1
+,66672,109,"Aprobacion, Orden Amistosa, Agradecimiento, Aprobacion, Pedir Disculpas, Pedir Disculpas, Rechazo",1
+,66673,109,"Agradecimiento, Pedir Disculpas, Aprobacion, Saludo, Agradecimiento, Pedir Disculpas, Aprobacion, Insulto",1
+,66674,109,"Saludo, Pedir Disculpas, Pedido de ayuda, Saludo, Orden Amistosa",1
+,66675,110,"Orden Amistosa, Orden Amistosa, Orden Amistosa, Aprobacion, Saludo, Aprobacion, Agradecimiento",1
+,66676,108,"Insulto, Pedido de ayuda, Agradecimiento, Orden Amistosa, Agradecimiento, Pedido de ayuda",1
+,66677,110,"Pedir Disculpas, Aprobacion, Saludo, Pedir Disculpas, Saludo, Aprobacion, Pedir Disculpas",1
+,66678,110,"Rechazo, Saludo, Saludo, Saludo, Aprobacion",1
+,66679,107,"Pedir Disculpas, Aprobacion, Agradecimiento, Insulto, Agradecimiento, Orden Amistosa, Pedido de ayuda, Amenaza, Pedir Disculpas",1
+,66680,107,"Aprobacion, Agradecimiento, Orden Amenazante, Aprobacion, Aprobacion, Agradecimiento, Pedir Disculpas, Orden Amistosa, Orden Amistosa",1
+,66681,107,"Pedir Disculpas, Saludo, Pedir Disculpas, Orden Amenazante, Agradecimiento, Pedir Disculpas, Pedir Disculpas, Aprobacion, Insulto",1
+,66682,108,"Pedir Disculpas, Orden Amistosa, Amenaza, Amenaza, Rechazo, Aprobacion, Aprobacion, Orden Amistosa",1
+,66683,110,"Orden Amistosa, Aprobacion, Orden Amistosa",1
+,66684,107,"Agradecimiento, Agradecimiento, Agradecimiento, Orden Amenazante, Orden Amistosa, Aprobacion, Orden Amistosa, Insulto, Aprobacion",1
+,66685,107,"Saludo, Insulto, Pedido de ayuda",1
+,66686,108,"Saludo, Orden Amistosa, Saludo, Amenaza, Pedido de ayuda, Agradecimiento, Orden Amistosa, Aprobacion, Insulto, Saludo",1
+,66687,107,"Agradecimiento, Orden Amistosa, Aprobacion, Orden Amenazante, Rechazo, Aprobacion",1
+,66688,109,"Saludo, Rechazo, Saludo, Insulto",1
+,66689,110,"Saludo, Rechazo, Agradecimiento, Aprobacion, Saludo, Orden Amistosa",1
+,66691,110,"Saludo, Aprobacion, Aprobacion, Aprobacion, Agradecimiento, Orden Amistosa",1
+,66694,110,"Agradecimiento, Aprobacion, Orden Amistosa, Orden Amistosa",1
+,66695,110,"Saludo, Orden Amistosa, Saludo, Pedir Disculpas, Pedir Disculpas",1
+,66696,109,"Agradecimiento, Insulto, Pedir Disculpas",1
+,66697,110,"Pedir Disculpas, Pedir Disculpas, Agradecimiento, Agradecimiento",1
+,66698,107,"Agradecimiento, Orden Amistosa, Orden Amistosa, Saludo, Saludo, Orden Amenazante, Pedir Disculpas, Saludo, Orden Amistosa, Amenaza",1
+,66699,108,"Orden Amenazante, Insulto",1
+,66700,108,"Orden Amenazante, Orden Amistosa, Orden Amenazante, Aprobacion, Pedir Disculpas, Orden Amistosa, Orden Amenazante",1
+,66701,107,"Pedido de ayuda, Aprobacion, Orden Amistosa, Pedir Disculpas, Amenaza, Orden Amistosa",1
+,66702,108,"Pedir Disculpas, Amenaza, Pedido de ayuda, Insulto, Orden Amenazante, Orden Amistosa, Insulto",1
+,66703,108,"Orden Amistosa, Agradecimiento, Amenaza, Aprobacion, Saludo, Agradecimiento, Insulto, Pedido de ayuda, Pedir Disculpas, Agradecimiento",1
+,66704,107,"Pedido de ayuda, Agradecimiento",1
+,66705,108,"Aprobacion, Amenaza, Orden Amistosa, Saludo, Saludo, Orden Amenazante, Aprobacion",1
+,66706,107,"Agradecimiento, Orden Amenazante",1
+,66707,110,"Saludo, Pedir Disculpas, Saludo, Saludo, Saludo",1
+,66708,107,"Saludo, Saludo, Pedir Disculpas, Saludo, Orden Amenazante, Rechazo, Orden Amistosa, Orden Amistosa",1
+,66709,107,"Orden Amistosa, Pedir Disculpas, Saludo, Saludo, Orden Amenazante",1
+,66710,109,"Orden Amistosa, Orden Amistosa, Orden Amistosa, Aprobacion, Saludo, Amenaza, Rechazo, Pedir Disculpas",1
+,66711,110,"Rechazo, Orden Amistosa, Aprobacion",1
+,66712,109,"Agradecimiento, Insulto, Rechazo, Rechazo, Aprobacion, Pedir Disculpas",1
+,66714,107,"Orden Amenazante, Rechazo",1
+,66715,107,"Orden Amenazante, Saludo, Aprobacion, Agradecimiento, Orden Amistosa, Orden Amistosa, Insulto, Orden Amistosa, Saludo",1
+,66716,110,"Pedir Disculpas, Saludo, Orden Amistosa, Pedir Disculpas",1
+,66717,107,"Pedir Disculpas, Pedir Disculpas, Orden Amenazante, Aprobacion, Agradecimiento",1
+,66718,107,"Pedir Disculpas, Pedido de ayuda",1
+,66719,110,"Rechazo, Pedir Disculpas, Agradecimiento, Saludo",1
+,66720,107,"Orden Amenazante, Aprobacion, Saludo, Orden Amistosa",1
+,66721,107,"Orden Amenazante, Saludo, Amenaza, Orden Amistosa, Orden Amistosa, Orden Amistosa, Orden Amistosa, Pedir Disculpas",1
+,66722,109,"Aprobacion, Agradecimiento, Aprobacion, Insulto, Pedir Disculpas, Rechazo",1
+,66723,107,"Orden Amistosa, Orden Amistosa, Pedido de ayuda",1
+,66724,107,"Rechazo, Amenaza",1
+,66725,109,"Saludo, Orden Amistosa, Insulto, Agradecimiento, Orden Amistosa",1
+,66726,110,"Agradecimiento, Agradecimiento, Aprobacion, Saludo",1
+,66727,107,"Aprobacion, Agradecimiento, Orden Amenazante, Saludo, Pedir Disculpas, Pedir Disculpas, Orden Amistosa, Agradecimiento",1
+,66728,107,"Pedir Disculpas, Pedir Disculpas, Agradecimiento, Pedir Disculpas, Pedido de ayuda",1
+,66729,108,"Agradecimiento, Aprobacion, Agradecimiento, Pedido de ayuda, Saludo, Orden Amenazante, Saludo, Pedir Disculpas",1
+,66730,108,"Rechazo, Amenaza, Orden Amenazante",1
+,66731,110,"Orden Amistosa, Agradecimiento, Saludo, Orden Amistosa, Aprobacion, Orden Amistosa",1
+,66732,110,"Pedir Disculpas, Orden Amistosa, Aprobacion, Aprobacion, Agradecimiento, Saludo",1
+,66733,109,"Aprobacion, Pedido de ayuda, Saludo, Saludo, Pedir Disculpas, Pedir Disculpas, Aprobacion, Pedir Disculpas, Pedir Disculpas, Agradecimiento",1
+,66734,108,"Orden Amistosa, Saludo, Orden Amistosa, Rechazo, Orden Amenazante, Saludo, Pedir Disculpas, Rechazo, Saludo",1
+,66735,108,"Orden Amenazante, Orden Amenazante, Aprobacion, Saludo, Orden Amistosa, Saludo, Pedir Disculpas, Pedir Disculpas",1
+,66736,108,"Orden Amenazante, Orden Amenazante",1
+,66737,110,"Aprobacion, Aprobacion, Aprobacion, Orden Amistosa, Aprobacion, Aprobacion, Saludo",1
+,66738,109,"Agradecimiento, Agradecimiento, Aprobacion, Agradecimiento, Orden Amenazante, Aprobacion, Pedir Disculpas, Amenaza, Orden Amistosa",1
+,66739,107,"Aprobacion, Rechazo, Amenaza, Rechazo, Agradecimiento, Pedir Disculpas, Agradecimiento, Saludo, Agradecimiento, Pedido de ayuda",1
+,66740,110,"Aprobacion, Pedir Disculpas, Aprobacion, Rechazo",1
+,66741,110,"Aprobacion, Agradecimiento, Pedir Disculpas, Agradecimiento",1
+,66742,108,"Orden Amenazante, Amenaza, Aprobacion, Insulto, Pedir Disculpas, Aprobacion",1
+,66743,110,"Pedir Disculpas, Agradecimiento, Pedir Disculpas, Agradecimiento, Orden Amistosa, Pedir Disculpas, Agradecimiento, Rechazo, Aprobacion",1
+,66744,110,"Agradecimiento, Aprobacion, Aprobacion, Agradecimiento, Agradecimiento",1
+,66745,110,"Aprobacion, Aprobacion, Saludo, Saludo, Orden Amistosa",1
+,66746,107,"Saludo, Saludo, Orden Amistosa, Pedido de ayuda",1
+,66747,107,"Saludo, Orden Amenazante, Aprobacion, Insulto, Saludo, Aprobacion",1
+,66748,110,"Aprobacion, Aprobacion, Aprobacion, Orden Amistosa, Saludo, Pedir Disculpas, Aprobacion, Pedir Disculpas",1
+,66749,109,"Orden Amenazante, Rechazo, Aprobacion, Pedir Disculpas, Pedir Disculpas, Orden Amistosa, Saludo, Aprobacion",1
+,66750,109,"Orden Amistosa, Insulto, Saludo, Agradecimiento, Rechazo, Orden Amistosa, Orden Amistosa, Orden Amistosa, Pedir Disculpas, Saludo",1
+,66751,110,"Agradecimiento, Pedir Disculpas, Orden Amistosa, Orden Amistosa",1
+,66752,109,"Pedir Disculpas, Agradecimiento, Aprobacion, Aprobacion, Aprobacion, Pedir Disculpas, Insulto, Aprobacion",1
+,66753,110,"Aprobacion, Aprobacion, Insulto, Aprobacion, Aprobacion, Pedir Disculpas, Aprobacion, Pedir Disculpas, Pedir Disculpas, Rechazo",1
+,66754,110,"Pedir Disculpas, Orden Amistosa, Aprobacion, Agradecimiento, Saludo, Orden Amistosa",1
+,66755,110,"Saludo, Aprobacion, Saludo, Orden Amistosa, Saludo, Saludo, Aprobacion, Saludo, Pedir Disculpas, Saludo",1
+,66756,110,"Pedir Disculpas, Orden Amistosa, Saludo, Pedir Disculpas, Pedir Disculpas, Agradecimiento, Orden Amistosa, Aprobacion, Pedir Disculpas, Aprobacion",1
+,66757,110,"Saludo, Pedir Disculpas, Agradecimiento, Orden Amistosa",1
+,66758,107,"Orden Amistosa, Agradecimiento, Saludo, Pedido de ayuda, Agradecimiento, Amenaza",1
+,66759,109,"Agradecimiento, Amenaza, Pedir Disculpas, Saludo, Pedir Disculpas, Pedir Disculpas, Saludo",1
+,66760,107,"Pedir Disculpas, Pedir Disculpas, Saludo, Saludo, Orden Amistosa, Orden Amistosa, Orden Amistosa, Orden Amistosa, Pedido de ayuda",1
+,66761,107,"Orden Amenazante, Insulto, Agradecimiento, Pedir Disculpas",1
+,66762,108,"Aprobacion, Pedido de ayuda, Amenaza, Orden Amistosa, Orden Amenazante, Saludo, Agradecimiento, Pedir Disculpas, Pedir Disculpas",1
+,66763,107,"Orden Amistosa, Orden Amistosa, Pedir Disculpas, Orden Amistosa, Saludo, Orden Amenazante, Orden Amistosa, Orden Amistosa, Orden Amistosa, Aprobacion",1
+,66764,108,"Agradecimiento, Insulto, Orden Amenazante, Amenaza, Aprobacion, Agradecimiento, Orden Amistosa, Saludo",1
+,66765,109,"Aprobacion, Agradecimiento, Orden Amenazante, Pedir Disculpas, Agradecimiento, Saludo",1
+,66766,107,"Orden Amistosa, Pedido de ayuda, Pedir Disculpas, Agradecimiento, Orden Amistosa, Insulto, Orden Amistosa",1
+,66767,108,"Pedido de ayuda, Pedido de ayuda, Amenaza, Saludo, Agradecimiento",1
+,66768,110,"Orden Amistosa, Saludo, Agradecimiento, Rechazo, Aprobacion, Saludo, Aprobacion",1
+,66769,108,"Agradecimiento, Pedido de ayuda, Aprobacion, Amenaza, Aprobacion, Insulto, Insulto",1
+,66770,108,"Orden Amenazante, Aprobacion, Saludo, Insulto, Insulto, Saludo",1
+,66771,108,"Orden Amenazante, Amenaza, Rechazo",1
+,66773,108,"Agradecimiento, Orden Amistosa, Pedir Disculpas, Amenaza, Pedido de ayuda, Saludo, Insulto, Aprobacion, Pedir Disculpas",1
+,66775,109,"Orden Amistosa, Agradecimiento, Insulto, Pedir Disculpas, Pedir Disculpas, Pedir Disculpas, Aprobacion",1
+,66776,108,"Insulto, Orden Amistosa, Orden Amistosa, Pedido de ayuda, Pedido de ayuda, Pedir Disculpas",1
+,66777,110,"Agradecimiento, Orden Amistosa, Aprobacion, Saludo, Orden Amistosa",1
+,66778,107,"Agradecimiento, Orden Amenazante, Amenaza, Aprobacion, Pedir Disculpas",1
+,66779,107,"Pedir Disculpas, Pedido de ayuda, Aprobacion",1
+,66780,107,"Orden Amenazante, Pedir Disculpas, Saludo, Rechazo, Amenaza",1
+,66781,109,"Agradecimiento, Orden Amenazante, Agradecimiento, Pedir Disculpas, Agradecimiento",1
+,66782,109,"Pedir Disculpas, Aprobacion, Orden Amistosa, Pedido de ayuda, Agradecimiento, Pedir Disculpas, Orden Amistosa, Aprobacion",1
+,66783,109,"Orden Amistosa, Agradecimiento, Agradecimiento, Pedido de ayuda, Aprobacion, Agradecimiento, Saludo, Pedir Disculpas, Agradecimiento",1
+,66784,110,"Agradecimiento, Saludo, Agradecimiento, Saludo, Agradecimiento, Agradecimiento, Saludo, Orden Amistosa, Aprobacion, Orden Amistosa",1
+,66785,109,"Pedir Disculpas, Agradecimiento, Insulto, Saludo, Agradecimiento",1
+,66786,109,"Orden Amistosa, Pedir Disculpas, Insulto",1
+,66787,108,"Saludo, Pedido de ayuda, Agradecimiento, Aprobacion, Agradecimiento, Amenaza, Pedido de ayuda, Orden Amenazante, Aprobacion",1
+,66788,109,"Aprobacion, Aprobacion, Saludo, Amenaza, Agradecimiento, Saludo",1
+,66789,107,"Pedido de ayuda, Orden Amistosa, Saludo, Orden Amistosa",1
+,66790,110,"Aprobacion, Orden Amistosa, Aprobacion, Agradecimiento, Saludo, Aprobacion, Pedir Disculpas",1
+,66791,108,"Pedir Disculpas, Pedir Disculpas, Amenaza, Saludo, Amenaza, Agradecimiento, Aprobacion, Rechazo, Orden Amenazante, Amenaza",1
+,66792,109,"Orden Amenazante, Saludo, Aprobacion, Pedir Disculpas, Aprobacion",1
+,66793,108,"Amenaza, Aprobacion, Pedido de ayuda, Saludo, Orden Amistosa, Pedir Disculpas, Aprobacion, Orden Amenazante, Agradecimiento, Aprobacion",1
+,66794,109,"Orden Amistosa, Pedido de ayuda, Aprobacion, Agradecimiento, Pedir Disculpas, Agradecimiento",1
+,66795,108,"Agradecimiento, Orden Amenazante, Orden Amenazante, Rechazo, Insulto, Orden Amistosa, Rechazo, Saludo, Orden Amistosa, Agradecimiento",1
+,66796,110,"Aprobacion, Pedir Disculpas",1
+,66797,110,"Pedir Disculpas, Aprobacion, Agradecimiento, Pedir Disculpas",1
+,66798,107,"Orden Amistosa, Agradecimiento, Rechazo, Saludo, Amenaza",1
+,66799,107,"Agradecimiento, Saludo, Amenaza, Orden Amistosa",1
+,66800,110,"Agradecimiento, Saludo, Orden Amistosa, Aprobacion, Pedir Disculpas, Saludo, Orden Amistosa, Orden Amistosa, Saludo",1
+,66801,110,"Agradecimiento, Agradecimiento, Rechazo, Agradecimiento, Pedir Disculpas, Aprobacion",1
+,66802,109,"Aprobacion, Pedir Disculpas, Orden Amenazante, Aprobacion, Orden Amistosa, Agradecimiento, Aprobacion",1
+,66803,109,"Saludo, Orden Amistosa, Agradecimiento, Agradecimiento, Agradecimiento, Insulto",1
+,66804,107,"Orden Amenazante, Pedir Disculpas, Orden Amistosa, Insulto, Pedir Disculpas, Orden Amistosa, Agradecimiento, Aprobacion, Saludo, Aprobacion",1
+,66805,109,"Agradecimiento, Pedir Disculpas, Orden Amistosa, Orden Amistosa, Aprobacion, Orden Amenazante, Agradecimiento, Orden Amistosa",1
+,66806,110,"Saludo, Orden Amistosa, Agradecimiento",1
+,66807,110,"Saludo, Pedir Disculpas, Orden Amistosa, Pedir Disculpas, Aprobacion, Pedir Disculpas",1
+,66808,107,"Orden Amenazante, Saludo, Aprobacion, Aprobacion, Saludo, Orden Amenazante, Saludo, Orden Amistosa",1
+,66809,109,"Saludo, Agradecimiento, Saludo, Pedir Disculpas, Insulto",1
+,66810,108,"Amenaza, Amenaza",1
+,66811,110,"Aprobacion, Pedir Disculpas, Saludo, Rechazo",1
+,66812,108,"Saludo, Orden Amenazante, Orden Amistosa, Saludo, Pedir Disculpas, Rechazo, Orden Amenazante, Pedir Disculpas, Pedir Disculpas, Agradecimiento",1
+,66813,109,"Insulto, Saludo, Agradecimiento, Pedir Disculpas, Saludo, Aprobacion, Saludo",1
+,66815,109,"Orden Amenazante, Pedir Disculpas, Orden Amistosa, Saludo, Pedir Disculpas",1
+,66816,110,"Saludo, Orden Amistosa, Orden Amistosa, Saludo",1
+,66817,108,"Orden Amenazante, Amenaza, Agradecimiento, Aprobacion, Aprobacion, Rechazo, Orden Amistosa, Aprobacion",1
+,66818,108,"Saludo, Orden Amistosa, Saludo, Agradecimiento, Aprobacion, Pedido de ayuda, Orden Amistosa, Amenaza, Aprobacion",1
+,66819,107,"Pedir Disculpas, Saludo, Pedir Disculpas, Aprobacion, Orden Amistosa, Pedido de ayuda",1
+,66820,109,"Saludo, Aprobacion, Insulto, Pedir Disculpas, Orden Amistosa, Orden Amistosa, Agradecimiento, Orden Amistosa",1
+,66821,108,"Saludo, Insulto, Pedido de ayuda, Pedir Disculpas, Saludo, Pedido de ayuda",1
+,66822,109,"Orden Amistosa, Aprobacion, Pedido de ayuda, Saludo, Saludo, Pedir Disculpas",1
+,66823,110,"Aprobacion, Aprobacion, Orden Amistosa, Saludo, Pedir Disculpas, Rechazo, Aprobacion, Orden Amistosa",1
+,66824,108,"Rechazo, Aprobacion, Orden Amistosa, Amenaza, Pedido de ayuda, Aprobacion",1
+,66825,110,"Aprobacion, Rechazo, Saludo, Pedir Disculpas, Orden Amistosa, Pedir Disculpas, Agradecimiento, Aprobacion, Pedir Disculpas",1
+,66826,108,"Agradecimiento, Agradecimiento, Agradecimiento, Pedir Disculpas, Orden Amistosa, Orden Amistosa, Amenaza, Pedir Disculpas, Orden Amenazante",1
+,66827,109,"Pedir Disculpas, Orden Amistosa, Orden Amistosa, Pedir Disculpas, Agradecimiento, Agradecimiento, Aprobacion, Insulto",1
+,66828,107,"Orden Amenazante, Orden Amistosa, Aprobacion, Insulto, Orden Amistosa, Agradecimiento, Rechazo, Rechazo, Agradecimiento",1
+,66829,110,"Orden Amenazante, Rechazo, Saludo, Orden Amenazante, Aprobacion, Saludo, Rechazo, Orden Amistosa, Pedir Disculpas",1
+,66830,108,"Insulto, Agradecimiento, Pedido de ayuda, Pedir Disculpas, Aprobacion, Orden Amistosa, Amenaza, Pedir Disculpas",1
+,66831,110,"Orden Amistosa, Orden Amistosa, Pedir Disculpas, Agradecimiento, Pedir Disculpas, Saludo, Agradecimiento",1
+,66832,107,"Agradecimiento, Amenaza, Orden Amistosa",1
+,66833,110,"Pedir Disculpas, Orden Amistosa, Aprobacion, Pedir Disculpas, Orden Amistosa, Orden Amistosa, Agradecimiento",1
+,66835,108,"Rechazo, Amenaza, Saludo, Pedir Disculpas, Saludo, Orden Amistosa, Pedido de ayuda, Saludo",1
+,66836,109,"Orden Amistosa, Orden Amistosa, Insulto, Pedir Disculpas, Amenaza, Rechazo, Orden Amistosa",1
+,66837,109,"Aprobacion, Rechazo, Saludo, Insulto, Orden Amistosa, Orden Amistosa, Saludo",1
+,66838,107,"Pedir Disculpas, Aprobacion, Amenaza, Saludo, Amenaza, Pedido de ayuda, Orden Amistosa, Aprobacion, Saludo",1
+,66839,108,"Rechazo, Agradecimiento, Amenaza, Rechazo, Saludo, Orden Amistosa, Orden Amistosa, Aprobacion, Rechazo, Rechazo",1
+,66840,107,"Pedir Disculpas, Rechazo, Pedir Disculpas, Orden Amistosa, Orden Amistosa, Amenaza, Orden Amistosa, Insulto, Saludo",1
+,66843,109,"Pedir Disculpas, Orden Amenazante, Agradecimiento, Rechazo, Pedir Disculpas, Pedir Disculpas",1
+,66844,109,"Agradecimiento, Pedir Disculpas, Insulto, Agradecimiento, Orden Amistosa, Insulto, Aprobacion",1
+,66845,109,"Saludo, Saludo, Pedir Disculpas, Pedir Disculpas, Aprobacion, Orden Amenazante, Agradecimiento, Aprobacion, Saludo",1
+,66846,107,"Aprobacion, Amenaza, Aprobacion, Saludo, Saludo, Pedido de ayuda, Insulto, Agradecimiento, Aprobacion, Aprobacion",1
+,66847,107,"Orden Amistosa, Amenaza, Rechazo, Pedir Disculpas, Orden Amistosa, Pedir Disculpas, Agradecimiento",1
+,66848,108,"Saludo, Orden Amistosa, Orden Amistosa, Amenaza, Agradecimiento, Orden Amenazante, Orden Amistosa, Aprobacion, Agradecimiento",1
+,66849,108,"Agradecimiento, Orden Amenazante, Pedir Disculpas, Saludo, Agradecimiento, Orden Amenazante, Saludo, Pedido de ayuda, Amenaza, Rechazo",1
+,66850,108,"Orden Amenazante, Orden Amistosa, Saludo, Aprobacion, Pedido de ayuda, Orden Amistosa",1
+,66851,108,"Amenaza, Rechazo",1
+,66852,109,"Saludo, Orden Amistosa, Orden Amistosa, Pedido de ayuda, Saludo, Aprobacion, Rechazo, Pedir Disculpas, Pedir Disculpas, Saludo",1
+,66853,107,"Pedir Disculpas, Agradecimiento, Insulto, Orden Amistosa, Orden Amenazante, Pedir Disculpas",1
+,66854,107,"Pedir Disculpas, Insulto, Aprobacion, Orden Amistosa, Orden Amenazante",1
+,66855,109,"Aprobacion, Saludo, Aprobacion, Rechazo, Saludo, Aprobacion, Amenaza, Saludo, Orden Amistosa, Pedir Disculpas",1
+,66856,109,"Saludo, Amenaza, Agradecimiento, Orden Amistosa, Agradecimiento, Aprobacion",1
+,66857,109,"Agradecimiento, Orden Amenazante, Pedir Disculpas, Orden Amistosa, Rechazo",1
+,66858,110,"Pedir Disculpas, Aprobacion, Aprobacion, Orden Amistosa, Pedir Disculpas",1
+,66859,109,"Agradecimiento, Agradecimiento, Orden Amenazante",1
+,66860,108,"Pedir Disculpas, Amenaza, Agradecimiento, Pedido de ayuda, Orden Amistosa, Amenaza, Saludo, Orden Amenazante, Aprobacion",1
+,66861,109,"Aprobacion, Insulto, Saludo, Pedir Disculpas, Aprobacion, Saludo, Agradecimiento, Saludo",1
+,66862,108,"Pedido de ayuda, Rechazo, Pedido de ayuda, Pedido de ayuda, Aprobacion",1
+,66864,110,"Aprobacion, Agradecimiento, Pedir Disculpas, Rechazo, Aprobacion, Rechazo, Saludo, Saludo",1
+,66865,109,"Agradecimiento, Pedir Disculpas, Insulto, Saludo, Rechazo, Agradecimiento, Aprobacion",1
+,66866,109,"Aprobacion, Orden Amistosa, Rechazo, Agradecimiento, Aprobacion, Orden Amenazante",1
+,66867,110,"Pedir Disculpas, Rechazo, Saludo, Orden Amistosa",1
+,66868,109,"Aprobacion, Aprobacion, Amenaza, Agradecimiento, Orden Amistosa, Orden Amistosa",1
+,66869,110,"Orden Amistosa, Saludo, Saludo, Rechazo, Aprobacion, Rechazo, Aprobacion",1
+,66870,110,"Aprobacion, Orden Amistosa, Pedir Disculpas, Orden Amistosa",1
+,66871,109,"Rechazo, Saludo, Orden Amistosa, Orden Amistosa, Amenaza, Saludo, Orden Amistosa",1
+,66872,110,"Rechazo, Rechazo, Orden Amistosa, Saludo, Orden Amistosa, Orden Amistosa, Rechazo, Pedir Disculpas, Agradecimiento, Aprobacion",1
+,66873,109,"Pedir Disculpas, Saludo, Insulto, Agradecimiento",1
+,66874,110,"Agradecimiento, Aprobacion, Aprobacion, Saludo",1
+,66875,110,"Agradecimiento, Pedir Disculpas, Pedir Disculpas, Orden Amistosa, Saludo, Aprobacion, Rechazo, Agradecimiento, Rechazo",1
+,66876,109,"Saludo, Saludo, Insulto",1
+,66877,110,"Orden Amistosa, Agradecimiento, Pedir Disculpas, Saludo",1
+,66878,109,"Pedir Disculpas, Amenaza, Pedir Disculpas, Agradecimiento, Agradecimiento, Aprobacion",1
+,66879,110,"Saludo, Aprobacion, Pedir Disculpas, Saludo",1
+,66880,109,"Aprobacion, Saludo, Agradecimiento, Pedir Disculpas, Orden Amistosa, Agradecimiento, Insulto, Saludo, Agradecimiento, Agradecimiento",1
+,66881,110,"Aprobacion, Agradecimiento, Pedir Disculpas, Pedir Disculpas, Orden Amistosa",1
+,66882,109,"Orden Amistosa, Aprobacion, Insulto, Pedir Disculpas",1
+,66884,107,"Agradecimiento, Saludo, Pedir Disculpas, Agradecimiento, Aprobacion, Orden Amenazante, Saludo, Aprobacion, Orden Amistosa, Amenaza",1
+,66885,109,"Pedido de ayuda, Pedir Disculpas, Aprobacion, Orden Amistosa",1
+,66886,107,"Orden Amistosa, Amenaza, Orden Amenazante, Orden Amistosa, Aprobacion, Agradecimiento, Aprobacion",1
+,66887,109,"Orden Amistosa, Agradecimiento, Aprobacion, Rechazo, Pedir Disculpas, Insulto, Aprobacion, Rechazo, Agradecimiento",1
+,66888,109,"Insulto, Orden Amistosa, Saludo, Aprobacion, Agradecimiento, Aprobacion, Aprobacion",1
+,66889,109,"Amenaza, Saludo, Orden Amistosa, Agradecimiento, Orden Amistosa, Saludo, Pedir Disculpas",1
+,66890,110,"Agradecimiento, Orden Amistosa, Pedir Disculpas",1
+,66891,108,"Orden Amistosa, Agradecimiento, Pedido de ayuda, Aprobacion, Saludo, Pedido de ayuda, Agradecimiento",1
+,66892,109,"Orden Amistosa, Orden Amistosa, Agradecimiento, Saludo, Amenaza, Aprobacion, Pedir Disculpas, Agradecimiento",1
+,66893,107,"Pedir Disculpas, Pedir Disculpas, Pedir Disculpas, Agradecimiento, Orden Amenazante, Orden Amistosa, Agradecimiento",1
+,66894,107,"Orden Amenazante, Orden Amistosa, Orden Amistosa, Saludo",1
+,66895,107,"Saludo, Pedir Disculpas, Agradecimiento, Orden Amistosa, Saludo, Orden Amenazante, Agradecimiento, Aprobacion",1
+,66896,107,"Saludo, Saludo, Pedir Disculpas, Orden Amistosa, Orden Amistosa, Rechazo, Saludo, Pedir Disculpas, Orden Amistosa, Orden Amenazante",1
+,66897,108,"Aprobacion, Saludo, Pedido de ayuda, Pedido de ayuda, Rechazo, Pedir Disculpas, Saludo",1
+,66898,110,"Saludo, Agradecimiento, Pedir Disculpas, Saludo",1
+,66899,107,"Pedido de ayuda, Saludo, Saludo, Insulto, Orden Amistosa, Saludo",1
+,66900,107,"Saludo, Agradecimiento, Insulto, Aprobacion, Aprobacion, Orden Amenazante, Orden Amistosa",1
+,66901,109,"Aprobacion, Pedir Disculpas, Insulto, Orden Amistosa, Pedir Disculpas",1
+,66902,109,"Insulto, Agradecimiento, Orden Amistosa, Orden Amistosa, Insulto, Orden Amistosa",1
+,66903,110,"Agradecimiento, Agradecimiento, Pedir Disculpas, Saludo, Aprobacion",1
+,66904,109,"Saludo, Insulto",1
+,66905,110,"Aprobacion, Agradecimiento",1
+,66906,110,"Aprobacion, Orden Amistosa, Agradecimiento, Orden Amistosa, Agradecimiento, Pedir Disculpas, Pedir Disculpas",1
+,66907,110,"Orden Amistosa, Aprobacion, Pedir Disculpas",1
+,66908,110,"Aprobacion, Orden Amistosa, Saludo",1
+,66909,110,"Orden Amistosa, Agradecimiento, Aprobacion",1
+,66910,108,"Aprobacion, Pedido de ayuda, Aprobacion, Aprobacion, Insulto, Pedido de ayuda, Aprobacion, Agradecimiento, Orden Amenazante, Saludo",1
+,66911,108,"Agradecimiento, Rechazo, Pedido de ayuda, Orden Amenazante, Orden Amistosa",1
+,66913,110,"Orden Amistosa, Aprobacion, Orden Amistosa, Agradecimiento, Pedir Disculpas",1
+,66914,110,"Aprobacion, Orden Amistosa, Agradecimiento, Pedir Disculpas, Aprobacion, Orden Amistosa, Aprobacion",1
+,66915,109,"Pedir Disculpas, Saludo, Amenaza",1
+,66916,109,"Agradecimiento, Pedir Disculpas, Saludo, Pedido de ayuda, Aprobacion, Pedir Disculpas, Saludo",1
+,66917,109,"Pedir Disculpas, Aprobacion, Aprobacion, Pedido de ayuda, Saludo, Aprobacion",1
+,66918,110,"Aprobacion, Rechazo, Aprobacion",1
+,66919,109,"Pedir Disculpas, Rechazo, Orden Amistosa, Amenaza, Aprobacion, Orden Amistosa, Aprobacion",1
+,66920,110,"Orden Amistosa, Saludo, Pedir Disculpas, Pedir Disculpas, Pedir Disculpas, Saludo",1
+,66921,109,"Aprobacion, Saludo, Pedir Disculpas, Amenaza",1
+,66922,108,"Orden Amenazante, Agradecimiento, Aprobacion, Pedir Disculpas, Amenaza, Aprobacion, Orden Amenazante, Aprobacion, Saludo",1
+,66923,108,"Orden Amistosa, Orden Amistosa, Agradecimiento, Rechazo, Rechazo, Amenaza",1
+,66924,109,"Agradecimiento, Aprobacion, Orden Amistosa, Insulto",1
+,66925,109,"Aprobacion, Insulto",1
+,66926,107,"Orden Amistosa, Orden Amistosa, Pedir Disculpas, Pedir Disculpas, Orden Amistosa, Orden Amistosa, Pedido de ayuda, Saludo, Orden Amenazante",1
+,66927,107,"Pedido de ayuda, Agradecimiento, Orden Amistosa, Saludo, Orden Amenazante, Orden Amistosa, Pedir Disculpas",1
+,66928,108,"Insulto, Pedir Disculpas, Orden Amistosa, Rechazo, Rechazo, Saludo, Saludo, Orden Amistosa, Pedido de ayuda, Aprobacion",1
+,66929,109,"Orden Amistosa, Saludo, Pedir Disculpas, Aprobacion, Insulto, Orden Amistosa, Agradecimiento, Orden Amistosa",1
+,66931,109,"Pedir Disculpas, Saludo, Orden Amistosa, Orden Amistosa, Agradecimiento",1
+,66932,109,"Orden Amistosa, Insulto, Aprobacion",1
+,66933,108,"Aprobacion, Pedir Disculpas, Orden Amistosa, Aprobacion, Saludo, Insulto, Orden Amenazante, Orden Amistosa, Pedido de ayuda, Saludo",1
+,66934,110,"Saludo, Agradecimiento, Saludo, Agradecimiento, Pedir Disculpas, Saludo",1
+,66935,108,"Insulto, Pedir Disculpas, Orden Amistosa, Pedir Disculpas, Pedir Disculpas, Pedir Disculpas, Amenaza, Insulto, Saludo, Orden Amistosa",1
+,66936,108,"Rechazo, Rechazo, Saludo, Rechazo, Insulto, Pedido de ayuda",1
+,66937,107,"Pedir Disculpas, Amenaza",1
+,66938,110,"Agradecimiento, Saludo",1
+,66939,109,"Orden Amistosa, Agradecimiento, Aprobacion, Orden Amenazante, Pedir Disculpas, Orden Amistosa, Saludo, Orden Amistosa",1
+,66941,109,"Pedir Disculpas, Saludo, Amenaza, Agradecimiento",1
+,66942,107,"Pedido de ayuda, Rechazo, Saludo, Saludo",1
+,66943,109,"Aprobacion, Orden Amistosa, Insulto, Pedir Disculpas, Aprobacion, Rechazo, Pedir Disculpas, Aprobacion",1
+,66944,108,"Aprobacion, Saludo, Aprobacion, Pedir Disculpas, Amenaza, Insulto, Pedido de ayuda, Rechazo",1
+,66945,110,"Saludo, Saludo, Orden Amistosa, Aprobacion",1
+,66946,110,"Aprobacion, Rechazo, Pedir Disculpas",1
+,66947,109,"Pedido de ayuda, Agradecimiento, Pedir Disculpas, Agradecimiento",1
+,66948,109,"Pedir Disculpas, Aprobacion, Agradecimiento, Saludo, Agradecimiento, Agradecimiento, Amenaza, Orden Amistosa",1
+,66949,108,"Insulto, Saludo, Saludo, Pedido de ayuda, Orden Amenazante",1
+,66950,109,"Aprobacion, Saludo, Amenaza, Pedir Disculpas, Pedir Disculpas",1
+,66951,108,"Aprobacion, Amenaza, Pedir Disculpas, Insulto, Agradecimiento",1
+,66952,109,"Orden Amistosa, Aprobacion, Pedido de ayuda, Agradecimiento, Pedir Disculpas, Pedir Disculpas, Agradecimiento, Aprobacion",1
+,66953,108,"Pedir Disculpas, Agradecimiento, Aprobacion, Aprobacion, Orden Amenazante, Pedido de ayuda, Aprobacion, Pedir Disculpas, Pedido de ayuda, Orden Amenazante",1
+,66955,108,"Pedido de ayuda, Insulto, Orden Amenazante, Aprobacion, Saludo, Aprobacion, Pedido de ayuda",1
+,66956,108,"Pedir Disculpas, Pedido de ayuda, Agradecimiento, Amenaza, Orden Amenazante, Saludo, Orden Amistosa, Aprobacion, Saludo, Orden Amistosa",1
+,66957,108,"Aprobacion, Amenaza, Amenaza, Amenaza, Pedir Disculpas, Orden Amistosa, Agradecimiento, Pedir Disculpas, Agradecimiento, Agradecimiento",1
+,66958,107,"Aprobacion, Amenaza, Aprobacion, Pedir Disculpas",1
+,66959,107,"Pedir Disculpas, Amenaza, Agradecimiento, Orden Amistosa, Orden Amistosa",1
+,66961,109,"Saludo, Orden Amistosa, Pedido de ayuda, Saludo, Orden Amistosa, Saludo",1
+,66964,108,"Agradecimiento, Pedido de ayuda, Agradecimiento, Pedido de ayuda, Aprobacion, Orden Amistosa, Orden Amistosa, Saludo, Orden Amenazante",1
+,66965,109,"Agradecimiento, Orden Amistosa, Orden Amistosa, Saludo, Saludo, Pedido de ayuda, Pedir Disculpas",1
+,66966,108,"Agradecimiento, Saludo, Insulto, Orden Amistosa, Rechazo, Amenaza, Pedido de ayuda, Saludo, Agradecimiento",1
+,66967,109,"Agradecimiento, Saludo, Aprobacion, Agradecimiento, Saludo, Saludo, Insulto, Saludo, Agradecimiento, Saludo",1
+,66968,110,"Saludo, Pedir Disculpas, Pedir Disculpas, Orden Amistosa, Aprobacion",1
+,66969,107,"Aprobacion, Agradecimiento, Amenaza, Saludo, Insulto",1
+,66970,110,"Saludo, Aprobacion, Saludo, Saludo, Saludo",1
+,66971,107,"Aprobacion, Agradecimiento, Saludo, Aprobacion, Orden Amenazante",1
+,66972,108,"Agradecimiento, Agradecimiento, Orden Amenazante, Pedido de ayuda, Rechazo, Aprobacion",1
+,66973,107,"Insulto, Orden Amistosa, Insulto, Orden Amistosa, Orden Amenazante, Orden Amenazante",1
+,66975,107,"Amenaza, Pedir Disculpas, Agradecimiento, Agradecimiento, Orden Amistosa, Saludo, Pedido de ayuda",1
+,66976,108,"Saludo, Agradecimiento, Orden Amistosa, Orden Amistosa, Aprobacion, Amenaza, Saludo, Pedido de ayuda, Amenaza, Saludo",1
+,66977,109,"Rechazo, Pedir Disculpas, Orden Amistosa, Pedido de ayuda",1
+,66978,109,"Saludo, Saludo, Pedir Disculpas, Pedido de ayuda",1
+,66979,110,"Aprobacion, Agradecimiento, Agradecimiento, Agradecimiento, Orden Amistosa, Orden Amistosa, Rechazo, Orden Amistosa, Orden Amistosa",1
+,66980,109,"Aprobacion, Orden Amistosa, Pedido de ayuda, Saludo, Saludo, Aprobacion, Agradecimiento, Pedir Disculpas",1
+,66981,107,"Insulto, Pedir Disculpas, Aprobacion, Orden Amenazante, Aprobacion, Orden Amistosa, Aprobacion",1
+,66982,108,"Agradecimiento, Insulto, Pedir Disculpas, Amenaza, Aprobacion, Aprobacion, Orden Amistosa, Pedir Disculpas, Insulto",1
+,66984,107,"Insulto, Orden Amenazante, Insulto, Pedir Disculpas, Aprobacion, Pedir Disculpas, Agradecimiento, Aprobacion, Insulto",1
+,66985,107,"Agradecimiento, Saludo, Insulto, Aprobacion, Agradecimiento, Saludo, Amenaza, Agradecimiento, Aprobacion",1
+,66986,107,"Orden Amistosa, Agradecimiento, Pedido de ayuda, Orden Amistosa, Agradecimiento, Orden Amistosa, Agradecimiento",1
+,66987,110,"Aprobacion, Pedir Disculpas, Agradecimiento, Agradecimiento, Agradecimiento",1
+,66988,109,"Agradecimiento, Orden Amenazante, Agradecimiento, Saludo, Aprobacion, Aprobacion, Saludo",1
+,66989,109,"Orden Amistosa, Saludo, Agradecimiento, Orden Amenazante, Pedir Disculpas",1
+,66990,108,"Agradecimiento, Orden Amenazante, Saludo, Saludo, Orden Amistosa, Orden Amenazante, Orden Amenazante, Saludo, Aprobacion",1
+,66991,110,"Agradecimiento, Pedir Disculpas, Aprobacion, Pedir Disculpas, Saludo, Rechazo, Agradecimiento",1
+,66992,109,"Pedir Disculpas, Saludo, Saludo, Amenaza",1
+,66993,109,"Insulto, Rechazo",1
+,66995,108,"Amenaza, Pedido de ayuda, Saludo, Saludo, Aprobacion, Orden Amenazante, Pedido de ayuda, Pedir Disculpas, Insulto, Saludo",1
+,66996,110,"Aprobacion, Agradecimiento, Agradecimiento, Aprobacion",1
+,66997,107,"Orden Amenazante, Insulto, Orden Amistosa, Pedir Disculpas, Aprobacion, Agradecimiento, Saludo, Saludo",1
+,66998,110,"Agradecimiento, Aprobacion, Agradecimiento, Saludo",1
+,66999,107,"Rechazo, Insulto, Aprobacion, Pedir Disculpas, Insulto",1
+,67002,110,"Pedir Disculpas, Pedir Disculpas, Pedir Disculpas, Saludo",1
+,67003,108,"Saludo, Pedir Disculpas, Pedir Disculpas, Orden Amistosa, Aprobacion, Orden Amenazante, Aprobacion, Orden Amistosa, Orden Amenazante, Rechazo",1
+,67004,107,"Orden Amistosa, Aprobacion, Insulto, Insulto, Aprobacion, Saludo",1
+,67005,110,"Pedir Disculpas, Orden Amistosa, Amenaza, Aprobacion, Aprobacion, Agradecimiento, Aprobacion",1
+,67006,109,"Pedir Disculpas, Saludo, Orden Amistosa, Insulto",1
+,67007,107,"Orden Amenazante, Agradecimiento, Rechazo, Aprobacion, Pedir Disculpas, Orden Amistosa, Saludo",1
+,67008,110,"Pedir Disculpas, Agradecimiento, Aprobacion, Orden Amistosa, Orden Amistosa, Orden Amistosa, Agradecimiento, Orden Amistosa",1
+,67009,109,"Pedir Disculpas, Aprobacion, Aprobacion, Insulto, Aprobacion, Pedir Disculpas, Aprobacion, Aprobacion, Agradecimiento",1
+,67010,108,"Insulto, Amenaza, Amenaza, Saludo",1
+,67011,108,"Pedir Disculpas, Aprobacion, Aprobacion, Insulto, Orden Amistosa, Orden Amistosa, Aprobacion, Rechazo, Pedido de ayuda, Agradecimiento",1
+,67012,108,"Aprobacion, Saludo, Agradecimiento, Orden Amenazante, Saludo, Saludo, Pedido de ayuda",1
+,67014,109,"Agradecimiento, Aprobacion, Aprobacion, Rechazo, Orden Amistosa, Saludo, Orden Amenazante, Pedir Disculpas",1
+,67015,109,"Agradecimiento, Agradecimiento, Orden Amistosa, Saludo, Agradecimiento, Insulto",1
+,67016,107,"Pedir Disculpas, Orden Amistosa, Aprobacion, Rechazo, Amenaza, Aprobacion, Rechazo, Insulto, Pedir Disculpas, Agradecimiento",1
+,67017,110,"Orden Amistosa, Orden Amistosa, Aprobacion, Pedir Disculpas, Orden Amistosa, Pedir Disculpas",1
+,67018,109,"Saludo, Insulto, Rechazo, Saludo, Aprobacion, Aprobacion, Agradecimiento",1
+,67019,110,"Agradecimiento, Aprobacion, Aprobacion, Pedir Disculpas, Rechazo, Pedir Disculpas, Rechazo, Pedir Disculpas",1
+,67021,109,"Agradecimiento, Aprobacion, Orden Amistosa, Orden Amistosa, Agradecimiento, Insulto",1
+,67022,108,"Orden Amistosa, Rechazo, Orden Amenazante, Orden Amistosa, Saludo, Pedir Disculpas, Agradecimiento, Insulto, Orden Amenazante",1
+,67023,109,"Rechazo, Orden Amistosa",1
+,67024,108,"Orden Amistosa, Orden Amenazante, Rechazo, Orden Amistosa, Saludo, Orden Amenazante, Orden Amistosa, Pedir Disculpas, Orden Amistosa, Agradecimiento",1
+,67025,107,"Aprobacion, Insulto, Saludo, Pedido de ayuda, Saludo, Aprobacion",1
+,67026,107,"Aprobacion, Amenaza, Agradecimiento, Amenaza, Saludo",1
+,67027,107,"Agradecimiento, Orden Amistosa, Saludo, Pedir Disculpas, Aprobacion, Amenaza, Pedir Disculpas, Aprobacion, Agradecimiento, Saludo",1
+,67028,107,"Rechazo, Saludo, Pedir Disculpas, Agradecimiento, Insulto, Agradecimiento, Insulto, Orden Amistosa, Pedir Disculpas",1
+,67029,107,"Orden Amistosa, Agradecimiento, Agradecimiento, Agradecimiento, Saludo, Aprobacion, Orden Amenazante, Orden Amenazante, Aprobacion, Agradecimiento",1
+,67030,109,"Saludo, Agradecimiento, Insulto",1
+,67032,109,"Insulto, Pedir Disculpas, Aprobacion",1
+,67035,110,"Pedir Disculpas, Aprobacion, Rechazo, Aprobacion, Agradecimiento, Pedir Disculpas, Pedir Disculpas, Agradecimiento, Orden Amistosa",1
+,67036,110,"Pedir Disculpas, Saludo, Orden Amistosa, Saludo, Agradecimiento, Agradecimiento, Orden Amistosa, Pedir Disculpas, Agradecimiento",1
+,67037,107,"Pedir Disculpas, Orden Amistosa, Orden Amenazante",1
+,67038,107,"Amenaza, Orden Amistosa, Amenaza, Agradecimiento, Aprobacion, Agradecimiento, Pedir Disculpas, Aprobacion",1
+,67039,108,"Orden Amistosa, Rechazo, Orden Amenazante, Aprobacion, Pedido de ayuda, Agradecimiento, Amenaza",1
+,67042,110,"Agradecimiento, Orden Amistosa, Saludo, Aprobacion, Aprobacion",1
+,67043,108,"Pedido de ayuda, Orden Amistosa, Pedir Disculpas, Insulto, Aprobacion, Pedido de ayuda, Pedir Disculpas, Orden Amenazante, Agradecimiento, Saludo",1
+,67044,109,"Agradecimiento, Pedir Disculpas, Saludo, Saludo, Pedido de ayuda",1
+,67045,109,"Agradecimiento, Pedido de ayuda, Agradecimiento, Aprobacion, Agradecimiento",1
+,67046,107,"Amenaza, Rechazo, Saludo, Orden Amistosa, Orden Amistosa",1
+,67047,108,"Saludo, Orden Amenazante, Insulto, Orden Amistosa, Orden Amistosa, Pedir Disculpas, Agradecimiento, Orden Amistosa, Pedir Disculpas, Aprobacion",1
+,67048,108,"Insulto, Pedir Disculpas, Orden Amenazante",1
+,67049,107,"Rechazo, Insulto, Rechazo, Saludo, Orden Amistosa, Agradecimiento, Amenaza, Orden Amenazante, Agradecimiento",1
+,67050,108,"Amenaza, Orden Amenazante, Insulto, Aprobacion, Pedido de ayuda, Orden Amistosa, Insulto",1
+,67052,109,"Saludo, Amenaza, Pedir Disculpas, Aprobacion, Agradecimiento",1
+,67053,108,"Pedir Disculpas, Aprobacion, Insulto, Pedido de ayuda, Orden Amistosa",1
+,67054,108,"Orden Amenazante, Amenaza, Orden Amistosa",1
+,67055,110,"Agradecimiento, Aprobacion, Agradecimiento, Rechazo, Agradecimiento",1
+,67056,107,"Orden Amenazante, Agradecimiento, Rechazo, Pedir Disculpas, Insulto, Agradecimiento",1
+,67057,110,"Saludo, Saludo, Saludo, Saludo, Agradecimiento, Aprobacion, Aprobacion, Pedir Disculpas, Aprobacion",1
+,67058,108,"Saludo, Agradecimiento, Agradecimiento, Insulto, Amenaza, Insulto",1
+,67059,108,"Orden Amistosa, Orden Amenazante, Aprobacion, Pedir Disculpas, Insulto, Pedir Disculpas, Orden Amenazante, Orden Amistosa",1
+,67060,108,"Saludo, Insulto, Pedido de ayuda, Agradecimiento, Agradecimiento, Rechazo",1
+,67061,110,"Saludo, Orden Amistosa, Saludo, Agradecimiento, Agradecimiento",1
+,67062,110,"Orden Amistosa, Rechazo, Agradecimiento, Orden Amistosa, Agradecimiento",1
+,67063,110,"Orden Amistosa, Aprobacion, Saludo, Pedir Disculpas, Aprobacion, Aprobacion, Aprobacion, Pedir Disculpas",1
+,67064,108,"Amenaza, Agradecimiento, Aprobacion, Orden Amistosa, Aprobacion, Pedido de ayuda, Agradecimiento, Pedir Disculpas",1
+,67065,110,"Agradecimiento, Saludo, Orden Amenazante, Agradecimiento, Aprobacion",1
+,67066,107,"Rechazo, Agradecimiento, Insulto",1
+,67067,110,"Aprobacion, Agradecimiento, Saludo, Agradecimiento",1
+,67068,109,"Orden Amistosa, Saludo, Orden Amenazante, Saludo, Agradecimiento",1
+,67069,107,"Saludo, Agradecimiento, Aprobacion, Amenaza, Saludo, Amenaza, Agradecimiento, Orden Amistosa, Pedir Disculpas",1
+,67070,109,"Saludo, Rechazo, Agradecimiento, Pedir Disculpas, Orden Amistosa, Saludo",1
+,67071,109,"Saludo, Saludo, Amenaza, Agradecimiento, Saludo, Saludo, Aprobacion, Aprobacion",1
+,67072,107,"Orden Amistosa, Agradecimiento, Amenaza",1
+,67077,107,"Orden Amenazante, Saludo, Insulto",1
+,67079,109,"Insulto, Orden Amistosa",1
+,67081,110,"Orden Amistosa, Saludo, Agradecimiento, Orden Amistosa",1
+,67082,110,"Pedir Disculpas, Agradecimiento, Orden Amistosa, Saludo",1
+,67085,108,"Pedir Disculpas, Agradecimiento, Insulto, Pedido de ayuda, Saludo, Insulto",1
+,67088,109,"Insulto, Aprobacion, Aprobacion, Pedir Disculpas, Insulto, Saludo",1
+,67089,109,"Orden Amistosa, Aprobacion, Pedir Disculpas, Orden Amistosa, Saludo, Amenaza, Saludo",1
+,67090,109,"Saludo, Orden Amistosa, Pedir Disculpas, Agradecimiento, Pedir Disculpas, Aprobacion, Aprobacion",1
+,67092,109,"Pedir Disculpas, Rechazo, Rechazo, Agradecimiento, Aprobacion, Pedir Disculpas, Insulto",1
+,67094,110,"Saludo, Pedir Disculpas, Rechazo, Pedir Disculpas",1
+,67095,110,"Pedir Disculpas, Orden Amistosa, Aprobacion, Agradecimiento, Saludo",1
+,67096,110,"Agradecimiento, Aprobacion, Agradecimiento",1
+,67098,108,"Amenaza, Aprobacion, Agradecimiento, Agradecimiento, Agradecimiento, Saludo, Insulto, Pedido de ayuda, Agradecimiento",1
+,67103,110,"Orden Amistosa, Agradecimiento, Agradecimiento",1
+,67104,109,"Saludo, Pedir Disculpas, Amenaza",1
+,67105,109,"Orden Amistosa, Rechazo, Agradecimiento, Agradecimiento, Amenaza, Agradecimiento, Insulto, Aprobacion, Orden Amistosa, Rechazo",1
+,67106,109,"Insulto, Aprobacion, Pedir Disculpas",1
+,67107,109,"Rechazo, Aprobacion, Insulto, Pedir Disculpas, Saludo, Pedir Disculpas, Orden Amistosa, Saludo",1
+,67110,110,"Orden Amistosa, Pedir Disculpas, Orden Amistosa, Orden Amistosa",1
+,67111,107,"Agradecimiento, Pedir Disculpas, Aprobacion, Insulto, Saludo, Agradecimiento, Pedir Disculpas, Amenaza",1
+,67112,109,"Agradecimiento, Pedir Disculpas, Agradecimiento, Agradecimiento, Pedir Disculpas",1
+,67114,110,"Rechazo, Saludo, Orden Amistosa, Saludo, Aprobacion",1
+,67121,109,"Insulto, Aprobacion, Saludo, Aprobacion, Insulto, Rechazo, Saludo, Pedir Disculpas",1
+,67125,109,"Saludo, Pedir Disculpas, Saludo, Insulto, Saludo",1
+,67127,110,"Agradecimiento, Orden Amistosa, Aprobacion",1
+,67128,108,"Pedido de ayuda, Aprobacion, Pedir Disculpas, Orden Amenazante, Pedir Disculpas",1
+,67129,110,"Rechazo, Aprobacion, Saludo, Orden Amistosa",1
+,67133,109,"Insulto, Pedir Disculpas, Pedir Disculpas, Orden Amistosa",1
+,67137,107,"Aprobacion, Amenaza, Agradecimiento",1
+,67140,110,"Agradecimiento, Aprobacion, Pedir Disculpas",1
+,67144,109,"Aprobacion, Pedir Disculpas, Saludo, Amenaza, Insulto, Saludo, Agradecimiento",1
+,67146,110,"Saludo, Pedir Disculpas, Aprobacion, Aprobacion",1
+,67148,109,"Saludo, Agradecimiento, Orden Amistosa, Aprobacion, Saludo, Saludo, Aprobacion, Amenaza, Orden Amistosa, Saludo",1
+,67151,108,"Pedido de ayuda, Saludo, Orden Amenazante, Insulto",1
+,67156,108,"Orden Amenazante, Orden Amenazante, Aprobacion, Orden Amistosa, Pedir Disculpas, Pedir Disculpas",1
+,67163,108,"Agradecimiento, Rechazo, Agradecimiento, Rechazo, Orden Amenazante, Agradecimiento, Pedido de ayuda, Aprobacion, Aprobacion",1
+,67168,108,"Amenaza, Rechazo, Orden Amenazante, Pedir Disculpas, Agradecimiento, Saludo, Agradecimiento, Insulto, Orden Amistosa, Insulto",1
+,67169,109,"Pedir Disculpas, Rechazo",1
+,67178,109,"Aprobacion, Aprobacion, Insulto, Orden Amistosa",1
+,67183,108,"Amenaza, Agradecimiento, Insulto, Rechazo, Agradecimiento, Agradecimiento, Aprobacion, Amenaza, Orden Amistosa, Saludo",1
+,67185,109,"Agradecimiento, Insulto, Saludo, Pedir Disculpas, Aprobacion, Aprobacion, Orden Amenazante, Aprobacion, Aprobacion",1
+,67190,108,"Agradecimiento, Saludo, Orden Amenazante, Orden Amenazante, Agradecimiento, Saludo, Insulto, Aprobacion",1
+,67197,109,"Orden Amistosa, Saludo, Aprobacion, Insulto",1
+,69686,109,"Saludo, Amenaza, Agradecimiento, Agradecimiento, Pedir Disculpas",1
+,69687,107,"Pedido de ayuda, Aprobacion, Saludo, Aprobacion, Pedir Disculpas, Orden Amistosa, Aprobacion, Orden Amistosa, Orden Amistosa",1
+,69688,107,"Aprobacion, Aprobacion, Orden Amistosa, Pedido de ayuda, Rechazo, Rechazo, Orden Amistosa, Pedido de ayuda",1
+,69689,107,"Saludo, Pedido de ayuda, Aprobacion, Pedido de ayuda, Rechazo, Agradecimiento, Saludo, Agradecimiento",1
+,69690,109,"Amenaza, Pedir Disculpas, Saludo, Saludo, Orden Amistosa",1
+,69691,110,"Saludo, Orden Amistosa, Rechazo, Pedir Disculpas, Pedir Disculpas, Pedir Disculpas, Saludo, Saludo, Pedir Disculpas, Saludo",1
+,69692,107,"Rechazo, Saludo, Aprobacion, Insulto, Insulto, Pedir Disculpas, Aprobacion, Saludo, Orden Amistosa, Pedido de ayuda",1
+,69693,107,"Saludo, Orden Amistosa, Orden Amenazante, Orden Amistosa, Orden Amistosa, Saludo, Aprobacion, Saludo",1
+,69694,108,"Rechazo, Pedido de ayuda, Rechazo, Agradecimiento, Orden Amenazante, Saludo, Orden Amenazante",1
+,69695,109,"Pedir Disculpas, Saludo, Agradecimiento, Pedido de ayuda, Agradecimiento, Saludo, Saludo, Agradecimiento, Pedir Disculpas",1
+,69696,107,"Pedido de ayuda, Saludo, Saludo, Pedir Disculpas, Orden Amistosa, Amenaza",1
+,69697,110,"Amenaza, Saludo, Pedir Disculpas, Aprobacion, Pedir Disculpas",1
+,69698,108,"Pedido de ayuda, Amenaza, Aprobacion, Agradecimiento, Agradecimiento",1
+,69699,108,"Amenaza, Orden Amenazante, Orden Amistosa, Pedir Disculpas, Orden Amenazante, Orden Amistosa, Agradecimiento, Saludo",1
+,69700,109,"Rechazo, Rechazo",1
+,69701,109,"Aprobacion, Agradecimiento, Saludo, Rechazo, Aprobacion, Saludo, Pedido de ayuda, Agradecimiento, Orden Amistosa",1
+,69702,110,"Saludo, Orden Amistosa, Orden Amistosa, Aprobacion",1
+,69703,107,"Pedir Disculpas, Agradecimiento, Insulto, Aprobacion, Orden Amistosa, Saludo, Pedido de ayuda, Saludo, Orden Amistosa, Aprobacion",1
+,69704,110,"Pedir Disculpas, Pedir Disculpas, Orden Amistosa, Saludo, Saludo, Saludo, Orden Amistosa, Agradecimiento, Agradecimiento",1
+,69705,109,"Pedido de ayuda, Orden Amistosa, Pedir Disculpas, Saludo, Saludo, Pedir Disculpas, Orden Amistosa, Aprobacion, Saludo",1
+,69706,107,"Pedido de ayuda, Aprobacion, Aprobacion, Orden Amenazante, Orden Amistosa",1
+,69707,107,"Aprobacion, Agradecimiento, Pedir Disculpas, Amenaza, Agradecimiento",1
+,69708,107,"Pedir Disculpas, Aprobacion, Aprobacion, Agradecimiento, Aprobacion, Orden Amenazante, Aprobacion, Orden Amistosa, Saludo, Orden Amistosa",1
+,69709,110,"Agradecimiento, Pedir Disculpas, Pedir Disculpas, Saludo, Saludo",1
+,69710,110,"Orden Amistosa, Orden Amistosa, Saludo",1
+,69711,109,"Amenaza, Saludo, Saludo",1
+,69712,108,"Pedir Disculpas, Amenaza, Pedir Disculpas, Aprobacion, Agradecimiento, Orden Amenazante, Orden Amistosa, Orden Amenazante",1
+,69713,109,"Rechazo, Rechazo, Pedir Disculpas, Aprobacion, Aprobacion, Rechazo",1
+,69714,107,"Orden Amistosa, Saludo, Amenaza, Aprobacion, Amenaza, Aprobacion, Aprobacion, Insulto, Orden Amistosa, Saludo",1
+,69715,107,"Orden Amistosa, Orden Amistosa, Saludo, Pedido de ayuda, Pedido de ayuda, Pedir Disculpas, Agradecimiento, Rechazo, Orden Amistosa",1
+,69716,109,"Insulto, Orden Amenazante, Saludo, Aprobacion, Agradecimiento, Insulto, Agradecimiento",1
+,69717,110,"Pedir Disculpas, Agradecimiento, Agradecimiento, Orden Amistosa",1
+,69718,110,"Orden Amistosa, Rechazo, Aprobacion, Orden Amistosa, Orden Amistosa, Agradecimiento",1
+,69719,108,"Insulto, Orden Amistosa, Aprobacion, Pedido de ayuda, Orden Amistosa, Insulto, Pedido de ayuda, Saludo",1
+,69720,107,"Orden Amistosa, Pedir Disculpas, Orden Amistosa, Amenaza, Saludo",1
+,69721,110,"Pedir Disculpas, Aprobacion, Pedir Disculpas, Aprobacion",1
+,69722,107,"Saludo, Orden Amistosa, Pedir Disculpas, Aprobacion, Aprobacion, Insulto, Pedir Disculpas, Orden Amenazante",1
+,69723,109,"Aprobacion, Agradecimiento, Pedir Disculpas, Orden Amistosa, Rechazo, Pedido de ayuda, Aprobacion, Aprobacion, Orden Amistosa",1
+,69724,107,"Aprobacion, Agradecimiento, Saludo, Orden Amistosa, Orden Amenazante",1
+,69725,108,"Pedido de ayuda, Pedido de ayuda, Amenaza, Saludo",1
+,69726,108,"Aprobacion, Amenaza, Insulto, Insulto, Pedir Disculpas",1
+,69727,108,"Rechazo, Orden Amistosa, Agradecimiento, Pedido de ayuda, Saludo, Amenaza, Aprobacion, Rechazo",1
+,69728,108,"Saludo, Orden Amenazante, Pedir Disculpas, Orden Amistosa, Pedir Disculpas, Saludo, Orden Amenazante",1
+,69729,110,"Agradecimiento, Rechazo, Aprobacion, Orden Amistosa, Saludo, Rechazo, Aprobacion",1
+,69730,110,"Aprobacion, Pedir Disculpas, Orden Amistosa, Agradecimiento, Rechazo, Pedir Disculpas",1
+,69731,109,"Aprobacion, Aprobacion, Orden Amenazante, Pedir Disculpas",1
+,69732,110,"Saludo, Aprobacion, Rechazo",1
+,69733,110,"Pedir Disculpas, Aprobacion, Pedir Disculpas, Agradecimiento, Agradecimiento, Agradecimiento, Saludo",1
+,69734,107,"Saludo, Saludo, Pedir Disculpas, Saludo, Amenaza, Saludo, Pedir Disculpas, Pedido de ayuda",1
+,69735,108,"Amenaza, Aprobacion, Aprobacion, Orden Amenazante, Pedido de ayuda, Orden Amistosa, Agradecimiento, Insulto, Agradecimiento",1
+,69736,109,"Saludo, Agradecimiento, Pedir Disculpas, Agradecimiento, Aprobacion, Pedido de ayuda, Agradecimiento",1
+,69737,110,"Pedir Disculpas, Aprobacion, Aprobacion, Pedir Disculpas, Agradecimiento, Saludo",1
+,69738,109,"Orden Amistosa, Agradecimiento, Aprobacion, Agradecimiento, Orden Amistosa, Saludo, Insulto, Rechazo",1
+,69739,107,"Pedir Disculpas, Aprobacion, Agradecimiento, Orden Amenazante",1
+,69740,109,"Agradecimiento, Agradecimiento, Agradecimiento, Insulto, Rechazo, Orden Amistosa, Rechazo",1
+,69741,110,"Orden Amistosa, Orden Amistosa, Aprobacion, Pedir Disculpas, Orden Amistosa",1
+,69742,107,"Agradecimiento, Orden Amistosa, Saludo, Orden Amistosa, Orden Amistosa, Rechazo, Orden Amistosa, Aprobacion, Amenaza, Saludo",1
+,69743,110,"Pedir Disculpas, Rechazo, Pedir Disculpas, Aprobacion, Saludo, Orden Amistosa",1
+,69744,107,"Rechazo, Aprobacion, Orden Amistosa, Pedido de ayuda, Aprobacion, Saludo, Agradecimiento",1
+,69745,107,"Aprobacion, Rechazo, Orden Amenazante, Saludo",1
+,69746,110,"Aprobacion, Agradecimiento, Orden Amistosa, Pedir Disculpas, Saludo, Saludo, Pedir Disculpas, Aprobacion, Pedir Disculpas",1
+,69747,109,"Amenaza, Aprobacion, Saludo, Saludo",1
+,69748,109,"Aprobacion, Saludo, Pedir Disculpas, Insulto",1
+,69749,108,"Amenaza, Rechazo, Saludo, Orden Amenazante, Rechazo",1
+,69750,108,"Orden Amenazante, Pedido de ayuda, Aprobacion, Pedir Disculpas, Aprobacion, Amenaza, Saludo, Rechazo, Saludo, Agradecimiento",1
+,69751,107,"Pedir Disculpas, Rechazo, Aprobacion, Orden Amenazante",1
+,69752,110,"Pedir Disculpas, Orden Amistosa, Orden Amistosa, Aprobacion",1
+,69753,109,"Pedido de ayuda, Agradecimiento, Agradecimiento, Agradecimiento",1
+,69754,110,"Orden Amistosa, Pedir Disculpas, Saludo, Saludo, Pedir Disculpas, Aprobacion, Saludo",1
+,69755,109,"Saludo, Pedir Disculpas, Insulto, Pedir Disculpas, Pedir Disculpas, Aprobacion, Agradecimiento, Insulto, Aprobacion, Agradecimiento",1
+,69756,107,"Insulto, Amenaza, Rechazo, Orden Amistosa, Pedir Disculpas, Pedir Disculpas",1
+,69757,110,"Pedir Disculpas, Saludo, Aprobacion, Aprobacion, Saludo, Saludo, Aprobacion, Saludo, Saludo",1
+,69758,108,"Orden Amistosa, Orden Amenazante, Amenaza, Orden Amenazante, Aprobacion",1
+,69759,109,"Insulto, Aprobacion, Saludo, Pedir Disculpas, Saludo, Agradecimiento",1
+,69760,109,"Saludo, Agradecimiento, Amenaza, Aprobacion, Aprobacion, Aprobacion, Aprobacion, Agradecimiento, Pedir Disculpas, Saludo",1
+,69761,109,"Insulto, Saludo, Pedir Disculpas, Pedir Disculpas",1
+,69762,107,"Saludo, Aprobacion, Saludo, Agradecimiento, Orden Amistosa, Insulto, Agradecimiento, Pedido de ayuda, Pedir Disculpas",1
+,69763,110,"Pedir Disculpas, Pedir Disculpas, Aprobacion, Orden Amistosa, Orden Amistosa, Aprobacion",1
+,69764,110,"Aprobacion, Pedir Disculpas, Saludo",1
+,69765,107,"Orden Amistosa, Agradecimiento, Pedir Disculpas, Agradecimiento, Aprobacion, Rechazo, Orden Amenazante",1
+,69766,108,"Aprobacion, Orden Amenazante, Amenaza, Orden Amenazante, Orden Amenazante, Aprobacion, Agradecimiento, Orden Amenazante",1
+,69767,107,"Orden Amistosa, Aprobacion, Pedido de ayuda, Orden Amistosa, Agradecimiento, Saludo, Pedir Disculpas, Agradecimiento, Aprobacion",1
+,69768,109,"Agradecimiento, Aprobacion, Orden Amistosa, Saludo, Amenaza, Pedir Disculpas, Aprobacion",1
+,69769,110,"Pedir Disculpas, Orden Amistosa, Agradecimiento, Pedir Disculpas",1
+,69770,109,"Saludo, Orden Amistosa, Saludo, Pedir Disculpas, Saludo, Pedido de ayuda, Saludo, Orden Amistosa, Saludo, Saludo",1
+,69771,108,"Amenaza, Amenaza, Pedido de ayuda, Saludo, Pedir Disculpas, Aprobacion",1
+,69772,107,"Orden Amistosa, Pedir Disculpas, Pedir Disculpas, Pedir Disculpas, Amenaza",1
+,69773,109,"Agradecimiento, Saludo, Orden Amistosa, Orden Amistosa, Amenaza, Pedir Disculpas, Aprobacion, Agradecimiento, Agradecimiento",1
+,69774,107,"Saludo, Insulto, Agradecimiento, Agradecimiento, Pedir Disculpas, Orden Amenazante",1
+,69775,110,"Pedir Disculpas, Aprobacion, Saludo, Agradecimiento, Orden Amistosa, Orden Amistosa, Agradecimiento",1
+,69776,107,"Orden Amistosa, Aprobacion, Agradecimiento, Orden Amistosa, Pedir Disculpas, Amenaza, Agradecimiento, Saludo",1
+,69777,107,"Aprobacion, Orden Amistosa, Pedido de ayuda, Orden Amistosa, Orden Amistosa",1
+,69778,108,"Pedido de ayuda, Aprobacion, Aprobacion, Agradecimiento, Insulto, Amenaza, Saludo",1
+,69779,109,"Aprobacion, Saludo, Agradecimiento, Orden Amistosa, Pedido de ayuda",1
+,69780,109,"Saludo, Saludo, Agradecimiento, Insulto, Insulto",1
+,69781,109,"Aprobacion, Orden Amenazante, Saludo, Agradecimiento",1
+,69782,109,"Agradecimiento, Agradecimiento, Pedir Disculpas, Insulto, Pedir Disculpas, Aprobacion, Pedir Disculpas",1
+,69783,109,"Orden Amistosa, Agradecimiento, Saludo, Orden Amistosa, Aprobacion, Aprobacion, Orden Amenazante",1
+,69784,107,"Agradecimiento, Insulto, Agradecimiento, Orden Amistosa, Amenaza, Saludo, Pedir Disculpas",1
+,69785,107,"Aprobacion, Saludo, Pedido de ayuda, Saludo",1
+,69786,108,"Insulto, Agradecimiento, Pedir Disculpas, Pedido de ayuda, Orden Amistosa, Pedir Disculpas, Saludo, Insulto, Aprobacion, Pedido de ayuda",1
+,69787,108,"Amenaza, Orden Amistosa, Amenaza, Agradecimiento, Agradecimiento, Amenaza, Orden Amistosa, Rechazo",1
+,69788,110,"Pedir Disculpas, Agradecimiento, Rechazo",1
+,69789,107,"Orden Amistosa, Orden Amenazante, Aprobacion, Orden Amistosa",1
+,69790,108,"Saludo, Aprobacion, Agradecimiento, Amenaza, Pedir Disculpas, Orden Amenazante, Agradecimiento, Orden Amenazante, Saludo, Pedir Disculpas",1
+,69791,109,"Pedir Disculpas, Agradecimiento, Saludo, Saludo, Insulto, Orden Amenazante, Saludo",1
+,69792,108,"Orden Amistosa, Amenaza, Agradecimiento, Orden Amistosa, Orden Amistosa, Insulto, Orden Amistosa, Pedir Disculpas, Aprobacion, Amenaza",1
+,69793,110,"Orden Amistosa, Aprobacion, Agradecimiento, Aprobacion, Aprobacion, Orden Amistosa, Orden Amistosa, Saludo, Rechazo",1
+,69794,107,"Aprobacion, Saludo, Saludo, Aprobacion, Pedido de ayuda, Orden Amistosa, Orden Amistosa, Agradecimiento",1
+,69795,108,"Amenaza, Orden Amistosa, Agradecimiento, Agradecimiento, Aprobacion, Orden Amistosa, Saludo, Orden Amenazante, Amenaza, Saludo",1
+,69796,110,"Saludo, Aprobacion, Saludo, Aprobacion, Aprobacion",1
+,69797,108,"Agradecimiento, Orden Amenazante, Aprobacion, Saludo, Agradecimiento, Pedido de ayuda, Aprobacion, Orden Amistosa, Saludo, Saludo",1
+,69798,108,"Saludo, Saludo, Orden Amistosa, Pedido de ayuda, Orden Amenazante, Aprobacion",1
+,69799,109,"Pedir Disculpas, Orden Amistosa, Agradecimiento, Aprobacion, Saludo, Orden Amistosa, Pedir Disculpas, Pedir Disculpas, Insulto, Saludo",1
+,69800,107,"Saludo, Pedir Disculpas, Orden Amistosa, Pedir Disculpas, Insulto, Aprobacion, Amenaza, Agradecimiento, Aprobacion",1
+,69801,110,"Aprobacion, Pedir Disculpas, Agradecimiento, Rechazo",1
+,69802,109,"Insulto, Orden Amistosa, Pedir Disculpas",1
+,69803,110,"Rechazo, Orden Amistosa, Saludo",1
+,69804,110,"Saludo, Pedir Disculpas, Rechazo, Aprobacion, Aprobacion, Pedir Disculpas",1
+,69805,108,"Agradecimiento, Orden Amenazante, Aprobacion, Aprobacion, Agradecimiento, Saludo, Agradecimiento, Pedido de ayuda, Rechazo",1
+,69806,108,"Orden Amenazante, Orden Amistosa, Aprobacion, Pedido de ayuda, Orden Amistosa, Pedir Disculpas, Aprobacion, Agradecimiento",1
+,69807,109,"Orden Amistosa, Orden Amenazante, Pedir Disculpas, Saludo, Saludo, Aprobacion",1
+,69808,110,"Pedir Disculpas, Pedir Disculpas, Saludo, Pedir Disculpas, Orden Amistosa, Saludo, Saludo, Aprobacion, Saludo, Aprobacion",1
+,69809,109,"Agradecimiento, Insulto, Pedir Disculpas, Orden Amistosa, Pedir Disculpas, Aprobacion, Orden Amistosa",1
+,69810,109,"Orden Amenazante, Pedir Disculpas, Orden Amistosa",1
+,69811,107,"Pedido de ayuda, Saludo, Orden Amistosa, Orden Amistosa, Aprobacion, Agradecimiento, Pedir Disculpas, Agradecimiento, Aprobacion",1
+,69812,109,"Orden Amistosa, Rechazo, Aprobacion, Pedido de ayuda, Pedir Disculpas",1
+,69813,109,"Orden Amistosa, Aprobacion, Insulto, Insulto, Aprobacion, Aprobacion",1
+,69814,107,"Pedir Disculpas, Agradecimiento, Insulto, Agradecimiento, Aprobacion, Orden Amistosa, Pedido de ayuda",1
+,69815,110,"Orden Amistosa, Pedir Disculpas, Agradecimiento, Pedir Disculpas, Aprobacion, Rechazo, Orden Amistosa, Aprobacion",1
+,69816,107,"Aprobacion, Rechazo, Saludo, Insulto, Pedir Disculpas, Orden Amistosa, Amenaza",1
+,69817,108,"Aprobacion, Orden Amistosa, Orden Amistosa, Orden Amistosa, Agradecimiento, Amenaza, Rechazo, Insulto",1
+,69818,107,"Agradecimiento, Aprobacion, Agradecimiento, Pedir Disculpas, Aprobacion, Orden Amenazante, Pedir Disculpas",1
+,69819,110,"Agradecimiento, Saludo, Aprobacion, Agradecimiento, Saludo, Pedir Disculpas, Agradecimiento",1
+,69820,109,"Pedido de ayuda, Aprobacion, Pedir Disculpas, Agradecimiento",1
+,69821,107,"Agradecimiento, Orden Amistosa, Pedir Disculpas, Aprobacion, Insulto, Orden Amenazante, Rechazo",1
+,69822,107,"Orden Amenazante, Pedir Disculpas, Agradecimiento, Orden Amistosa, Orden Amistosa, Orden Amistosa, Saludo, Orden Amistosa, Rechazo",1
+,69823,110,"Aprobacion, Aprobacion, Pedir Disculpas, Pedir Disculpas, Pedir Disculpas",1
+,69824,107,"Orden Amistosa, Agradecimiento, Pedir Disculpas, Orden Amenazante, Saludo, Saludo, Pedir Disculpas, Saludo",1
+,69825,108,"Orden Amenazante, Aprobacion, Saludo, Pedido de ayuda, Saludo",1
+,69826,109,"Pedir Disculpas, Pedido de ayuda, Aprobacion, Aprobacion, Aprobacion",1
+,69827,107,"Orden Amenazante, Saludo, Saludo, Agradecimiento, Orden Amistosa, Aprobacion",1
+,69828,109,"Agradecimiento, Pedir Disculpas, Aprobacion, Pedido de ayuda, Orden Amistosa, Pedir Disculpas, Pedir Disculpas",1
+,69829,109,"Insulto, Aprobacion, Agradecimiento, Orden Amistosa, Orden Amistosa, Saludo, Saludo, Pedir Disculpas",1
+,69830,109,"Rechazo, Aprobacion, Amenaza, Saludo",1
+,69831,109,"Orden Amistosa, Saludo, Pedir Disculpas, Pedir Disculpas, Orden Amistosa, Orden Amistosa, Orden Amenazante, Pedir Disculpas",1
+,69832,110,"Rechazo, Saludo, Aprobacion, Orden Amistosa, Agradecimiento, Saludo, Aprobacion, Aprobacion",1
+,69833,109,"Aprobacion, Agradecimiento, Insulto, Aprobacion",1
+,69834,110,"Agradecimiento, Aprobacion, Saludo, Orden Amistosa, Aprobacion, Rechazo, Agradecimiento, Rechazo, Pedir Disculpas",1
+,69835,108,"Orden Amistosa, Agradecimiento, Insulto, Amenaza, Saludo, Agradecimiento, Orden Amenazante",1
+,69836,109,"Orden Amistosa, Saludo, Aprobacion, Amenaza, Pedir Disculpas, Agradecimiento",1
+,69837,109,"Orden Amistosa, Insulto, Saludo, Aprobacion, Orden Amistosa",1
+,69838,108,"Amenaza, Pedir Disculpas, Orden Amistosa, Saludo, Pedir Disculpas, Orden Amenazante, Pedir Disculpas",1
+,69839,110,"Rechazo, Saludo, Saludo, Saludo",1
+,69840,108,"Orden Amistosa, Amenaza, Pedir Disculpas, Agradecimiento, Pedir Disculpas, Pedir Disculpas, Agradecimiento, Pedido de ayuda",1
+,69841,107,"Rechazo, Pedir Disculpas, Saludo, Amenaza, Pedir Disculpas, Pedir Disculpas, Rechazo, Orden Amistosa, Orden Amistosa",1
+,69842,108,"Aprobacion, Orden Amenazante, Amenaza, Pedir Disculpas, Aprobacion, Pedido de ayuda, Orden Amistosa",1
+,69843,107,"Agradecimiento, Pedido de ayuda, Pedir Disculpas, Orden Amistosa, Saludo, Orden Amenazante, Saludo, Orden Amistosa, Agradecimiento",1
+,69844,110,"Aprobacion, Pedir Disculpas, Pedir Disculpas, Saludo",1
+,69845,108,"Aprobacion, Saludo, Amenaza, Pedido de ayuda, Aprobacion, Orden Amenazante, Amenaza, Saludo, Orden Amistosa, Pedir Disculpas",1
+,69846,109,"Insulto, Aprobacion, Pedir Disculpas, Saludo",1
+,69847,109,"Aprobacion, Aprobacion, Saludo, Pedir Disculpas, Pedido de ayuda, Pedir Disculpas, Agradecimiento, Orden Amistosa",1
+,69848,107,"Pedir Disculpas, Agradecimiento, Agradecimiento, Agradecimiento, Amenaza, Orden Amistosa, Aprobacion",1
+,69849,109,"Pedir Disculpas, Insulto, Aprobacion, Pedir Disculpas, Orden Amistosa, Orden Amistosa, Saludo, Insulto, Pedir Disculpas",1
+,69850,110,"Orden Amistosa, Rechazo, Pedir Disculpas, Pedir Disculpas",1
+,69851,110,"Agradecimiento, Agradecimiento, Pedir Disculpas, Pedir Disculpas, Orden Amistosa",1
+,69852,109,"Aprobacion, Aprobacion, Orden Amistosa, Insulto, Pedir Disculpas, Pedir Disculpas",1
+,69853,107,"Orden Amenazante, Aprobacion, Saludo, Saludo, Insulto, Agradecimiento, Orden Amenazante",1
+,69854,107,"Saludo, Agradecimiento, Rechazo, Pedir Disculpas, Saludo, Amenaza, Orden Amistosa, Saludo",1
+,69855,109,"Saludo, Orden Amistosa, Orden Amenazante, Pedir Disculpas, Pedir Disculpas",1
+,69856,110,"Aprobacion, Saludo, Orden Amistosa, Aprobacion, Agradecimiento, Orden Amistosa, Rechazo, Saludo",1
+,69857,107,"Insulto, Orden Amistosa, Saludo, Agradecimiento, Orden Amistosa, Pedir Disculpas, Saludo, Orden Amistosa, Saludo, Pedido de ayuda",1
+,69858,107,"Pedir Disculpas, Pedido de ayuda, Agradecimiento, Insulto",1
+,69859,107,"Agradecimiento, Aprobacion, Agradecimiento, Saludo, Amenaza, Insulto, Orden Amistosa, Orden Amistosa",1
+,69860,107,"Aprobacion, Pedir Disculpas, Saludo, Pedir Disculpas, Orden Amistosa, Orden Amistosa, Amenaza, Agradecimiento, Rechazo",1
+,69861,109,"Orden Amistosa, Saludo, Insulto, Aprobacion, Aprobacion",1
+,69862,107,"Aprobacion, Aprobacion, Aprobacion, Orden Amistosa, Insulto, Pedido de ayuda",1
+,69863,108,"Rechazo, Pedir Disculpas, Rechazo, Amenaza, Rechazo, Rechazo, Orden Amenazante",1
+,69864,110,"Saludo, Pedir Disculpas, Aprobacion, Pedir Disculpas, Pedir Disculpas, Pedir Disculpas, Saludo, Orden Amistosa, Orden Amistosa",1
+,69865,110,"Saludo, Aprobacion, Saludo, Agradecimiento",1
+,69866,107,"Orden Amenazante, Aprobacion, Aprobacion, Agradecimiento",1
+,69867,108,"Insulto, Pedir Disculpas, Pedir Disculpas, Orden Amistosa, Aprobacion, Amenaza, Agradecimiento, Pedido de ayuda, Rechazo, Amenaza",1
+,69868,108,"Orden Amenazante, Orden Amenazante, Orden Amistosa, Saludo, Agradecimiento, Pedir Disculpas, Orden Amenazante, Pedido de ayuda, Insulto",1
+,69869,109,"Insulto, Pedir Disculpas, Pedir Disculpas, Pedir Disculpas, Aprobacion",1
+,69870,108,"Orden Amistosa, Amenaza, Pedido de ayuda, Agradecimiento, Agradecimiento, Pedir Disculpas, Pedido de ayuda, Pedido de ayuda, Orden Amistosa",1
+,69871,109,"Agradecimiento, Saludo, Insulto, Rechazo, Aprobacion, Pedir Disculpas, Agradecimiento, Aprobacion",1
+,69872,107,"Saludo, Orden Amistosa, Saludo, Agradecimiento, Pedir Disculpas, Amenaza, Amenaza, Aprobacion, Saludo",1
+,69873,110,"Aprobacion, Agradecimiento, Rechazo, Pedir Disculpas",1
+,69874,108,"Pedir Disculpas, Pedir Disculpas, Amenaza, Insulto, Saludo, Pedido de ayuda, Orden Amistosa, Agradecimiento, Agradecimiento",1
+,69875,110,"Orden Amistosa, Orden Amistosa, Aprobacion, Pedir Disculpas, Aprobacion, Pedir Disculpas, Saludo",1
+,69876,107,"Saludo, Amenaza, Orden Amistosa, Pedir Disculpas, Insulto",1

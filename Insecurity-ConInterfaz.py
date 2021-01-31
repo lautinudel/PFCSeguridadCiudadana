@@ -24,17 +24,6 @@ class bcolors:
     BOLD = '\033[1m'
     UNDERLINE = '\033[4m'
 
-# FUNCION QUE APLICA NLP
-def nlp(texto):
-    texto = texto.lower()  # minuscula
-    texto = unidecode.unidecode(texto)  # acentos
-    texto = ''.join(e for e in texto if e.isalnum()
-                    or e.isspace())  # caracteres especiales
-    texto = ''.join(e for e in texto if not e.isdigit())
-    texto = texto.lstrip()  # espacio del principio
-    texto = texto.rstrip()  # espacio del final
-    return texto
-
 # PASA DE UN ARREGLO DE STRING A UN STRING SEPARADO POR COMAS
 def toString(arreglo):
     resultado = ""
@@ -48,10 +37,8 @@ def toString(arreglo):
 # RECIBE UN TEXTO Y DEVUELVE UN ARREGLO DE ENTIDADES
 def entityRecognizer(texto):
     listaEntidades = []
-    textoNLP = nlp(texto)  # APLICO NLP
     # OBTENGO SUS ENTIDADES
-    entidades = ner(textoNLP)
-    #displacy.serve(entidades, style="ent")
+    entidades = ner(texto)
     i = 0
     for i in range(len(entidades.ents)):
         entidad = entidades.ents[i].label_
@@ -69,28 +56,19 @@ def textCategory(entidades):
     probabilidades = [inseguridad.cats['Muy Inseguro'], inseguridad.cats['Inseguro'], inseguridad.cats['Seguro'], inseguridad.cats['Muy Seguro']]
     if inseguridad.cats['Muy Inseguro'] == max(probabilidades):
         categoria = "Muy Insegura"
-        #accion="Llamar a la policia"
         app.setMeter("NivelSeguridad", 100, text="Muy Insegura")       
     else:
         if inseguridad.cats['Inseguro'] == max(probabilidades):
             categoria = "Insegura"
-            #accion="Sonar alarma comunitaria"
             app.setMeter("NivelSeguridad", 75, text="Insegura") 
         else:
             if inseguridad.cats['Seguro'] == max(probabilidades):
                 categoria = "Segura"
-                #accion="Notificar a un familiar"
                 app.setMeter("NivelSeguridad", 25, text="Segura")
             else: 
                 if inseguridad.cats['Muy Seguro'] == max(probabilidades):
                     categoria = "Muy Segura"
-                    #accion="Ninguna accion"
                     app.setMeter("NivelSeguridad", 1, text="Muy Segura")
-    #historial.insert(0,"")
-    #historial.insert(0,"- "+datetime.now().strftime('%H:%M:%S')+" "+categoria)
-    #historial.insert(0,accion)
-    #app.updateListBox("historial", historial, select=False) 
-    #app.updateListBox("historialEscena", historial, select=False)
     app.after(8000,app.setMeter, "NivelSeguridad", 0, "Analizando...")     
     return categoria
 
@@ -160,7 +138,7 @@ def seguridadCiudadana(texto):
         print("Analizando...")
         resultado = textCategory(entidadesAAnalizar)
         print("LA CONVERSACION FUE: "+resultado)
-        return "- "+datetime.now().strftime('%H:%M:%S')+"    "+"Se llego al limite de entidades -> LA CONVERSACION FUE: "+resultado
+        return "- "+datetime.now().strftime('%H:%M:%S')+"    "+"Entidad/es: "+toString(listaEntidadesAux)+"    "+" => Se llego al limite de entidades -> LA CONVERSACION FUE: "+resultado
     else:
         entidadesEnEspera = entidadesEnEspera + listaEntidadesAux
         print("Sigo escuchando")
@@ -182,7 +160,6 @@ ner = spacy.load(nermodel) # CARGO EL MODELO DE NER
 textcat = spacy.load(textcatmodel) # CARGO EL MODELO DE TEXTCAT
 
 mensajes = []
-#historial = []
 
 #Manejo de botones
 def botonesChat(button):
@@ -196,13 +173,10 @@ def botonesChat(button):
 
 def botonesMenu(button):
     global mensajes
-    #global historial
+
     mensajes = []
-    #historial = []
     app.updateListBox("mensajes", mensajes, select=False)
     app.updateListBox("mensajesEscena", mensajes, select=False)
-    #app.updateListBox("historial", historial, select=False) 
-    #app.updateListBox("historialEscena", historial, select=False)
     if button == "Chat": 
         app.nextFrame("MENU")
         app.setFocus("Mensaje")
@@ -213,9 +187,7 @@ def botonesMenu(button):
 
 def botonesDemo(button):
     global mensajes
-    #global historial
-    #historial =[]
-    #app.updateListBox("historialEscena", historial, select=False)
+
     if button == "Atras": app.firstFrame("MENU")
     else: 
         if button == "Apache":
@@ -257,7 +229,6 @@ def botonesEscena(button):
         app.setMeter("NivelSeguridad", 0, text="Analizando...")
         app.updateListBox("mensajesEscena", mensajes, select=False)
         app.prevFrame("MENU")
-        #.afterCancel(afterId) 
 
 def enviarMensaje(msj):
     global mensajes
@@ -273,7 +244,7 @@ def mostrarSub(msj):
     
 #INTERFAZ
 
-app = gui("Seguridad ciudadana", "900x400")
+app = gui("Seguridad ciudadana", "1000x400")
 app.startFrameStack("MENU")
 
 #MENU PRINCIPAL
@@ -311,7 +282,6 @@ app.setStretch('both')
 app.setSticky('news')
 app.addListBox("mensajes", mensajes, 0,0,2)
 app.setStretch('row')
-#app.addListBox("historial", historial,0,2)
 app.stopFrame()
 #Ingreso de texto
 app.addLabelEntry("Mensaje")
@@ -348,7 +318,6 @@ app.setStretch('both')
 app.setSticky('news')
 app.addListBox("mensajesEscena", mensajes, 0,0,2)
 app.setStretch('row')
-#app.addListBox("historialEscena", historial,0,2)
 app.stopFrame()
 app.addMeter("NivelSeguridad")
 app.setMeterFill("NivelSeguridad", "red")
@@ -365,18 +334,3 @@ app.enableEnter(botonesChat)
 
 # start the GUI
 app.go()
-
-#Editor de sub
-#subs = pysrt.open('El clan (2015).HDrip.srt',encoding='utf-8')
-#parts = subs.slice(starts_after={'hours':1,'minutes': 5, 'seconds':20}, ends_before={'hours':1,'minutes': 6, 'seconds':47})
-
-#time.sleep(subs[0].start.seconds)
-#for i in range(len(subs)):                    
-#    seguridadCiudadana(subs[i].text) 
-#    if i<len(subs)-1:           
-#        time.sleep((subs[i+1].start-subs[i].start).seconds)
-
-#parts.shift(hours=-1)
-#parts.shift(minutes=-5)
-#parts.shift(seconds=-20)
-#parts.save('El clan Escena 2.srt', encoding='utf-8')

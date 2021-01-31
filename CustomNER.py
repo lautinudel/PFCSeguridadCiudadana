@@ -6,6 +6,9 @@ import unidecode
 import re
 from spacy.gold import GoldParse
 from spacy.scorer import Scorer
+from spacy.util import decaying
+from spacy.util import minibatch, compounding
+import warnings
 
 #FUNCION QUE LIMPIA EL DATASET
 def trim_entity_spans(data: list) -> list:
@@ -37,53 +40,18 @@ def trim_entity_spans(data: list) -> list:
 
     return cleaned_data
 
-#FUNCION QUE APLICA NLP
-def nlp(texto):
-    texto = texto.lower() #minuscula
-    texto = unidecode.unidecode(texto) #acentos
-    """
-    aux = ""
-    #reemplazo numeros y caracteres especiales por un espacio
-    for e in texto:
-         if (e.isalnum() or e.isspace()) and not e.isdigit():
-          aux+=e
-         else:
-            aux+=" "            
-    texto = aux
-    
-    texto = texto.replace("\t", "      ") #saco los \t
-    #reemplazo los espacios en blanco del principio por -
-    i=0
-    caracter = texto[i]
-    aux=""
-    while caracter.isspace():
-        aux += "-"
-        i+=1
-        caracter = texto[i]
-    texto = texto.lstrip() #espacio del principio
-    texto = aux + texto
-    texto = texto.rstrip() #espacio del final"""
-    return texto
-
 #NOMBRE DEL MODELO A CREAR
 modelfile = "NERModel"
 
 #DEFINO EL PATH DEL DATASET
 dirname = os.path.dirname(__file__)         #path de la carpeta actual
-filename1 = "marginal.json1"   #nombre del archivo
-#filename2 = "Sequence Labeling - Carlos Tevez 1-3.json1"
+filename1 = "Datasets\marginal031220.json1"   #nombre del archivo
 filepath1 = os.path.join(dirname, filename1)  #path del dataset  1     
-#filepath2 = os.path.join(dirname, filename2)  #path del dataset  2      
 
-#CARGO EL DATASET 1
+#CARGO EL DATASET
 train_data = []
 for line in open(filepath1, encoding="utf8"):
     train_data.append(json.loads(line))
-
-#CARGO EL DATASET 2
-#for line in open(filepath2, encoding="utf8"):
-#     train_data.append(json.loads(line))
-
 
 #ME QUEDO CON LAS PARTES DEL DATASET QUE QUIERO (TEXT Y LABELS)
 TRAIN_DATA = []
@@ -100,50 +68,9 @@ for data in TRAIN_DATA:
 #LIMPIO EL DATASET PARA QUE SPACY PUEDA USARLO CORRECTAMENTE
 TRAIN_DATA_FINAL = trim_entity_spans(TRAIN_DATA_FINAL)
 
-#APLICO NLP AL TEXTO DEL DATASET
-for data in TRAIN_DATA_FINAL:
-    data[0] = nlp(data[0])
-
-
-
 #DIVIDO EL DATASET EN 2 PARTES, UNA PARA ENTRENAR Y LA OTRA PARA TESTEAR
 from sklearn.model_selection import train_test_split
 X_train, X_test = train_test_split(TRAIN_DATA_FINAL,  test_size=0.20)
-
-"""
-
-saludo =0 
-aprobacion = 0
-queja = 0
-disculpa = 0
-amenaza = 0
-ayuda = 0
-for i in range(len(X_test)):
-    for j in range(len(X_test[i][1]['entities'])):
-        if X_test[i][1]['entities'][j][2] == "Saludo":
-            saludo +=1
-        else:
-            if X_test[i][1]['entities'][j][2] == "Aprobacion":
-                aprobacion +=1
-            else:
-                if X_test[i][1]['entities'][j][2] == "Queja":
-                    queja +=1
-                else:
-                    if X_test[i][1]['entities'][j][2] == "Pedir disculpas":
-                        disculpa +=1
-                    else: 
-                        if X_test[i][1]['entities'][j][2] == "Amenaza":
-                            amenaza +=1
-                        else:
-                            if X_test[i][1]['entities'][j][2] == "Pedido de ayuda":
-                                ayuda +=1
-print("Saludo: ", saludo)
-print("Aprobacion: ", aprobacion)
-print("Queja: ", queja)
-print("Pedir disculpas: ", disculpa)
-print("Amenaza: ", amenaza)
-print("Pedido de ayuda: ",ayuda)
-"""
 
 #FUNCION QUE ENTRENA EL NER DE UN MODELO
 def train_spacy(model,data,iterations):
@@ -170,25 +97,30 @@ def train_spacy(model,data,iterations):
          for ent in annotations.get('entities'):
             ner.add_label(ent[2])
 
+    #Si cree el modelo, comienzo a entrenar desde el principio, sino continuo en donde deje
+    if model is None:
+      optimizer = nlp.begin_training()
+    else:
+      optimizer = nlp.resume_training()
+
     # solo entreno el ner del modelo
     other_pipes = [pipe for pipe in nlp.pipe_names if pipe != 'ner']
-    with nlp.disable_pipes(*other_pipes):  
-      
-        #Si cree el modelo, comienzo a entrenar desde el principio, sino continuo en donde deje
-        if model is None:
-            optimizer = nlp.begin_training()
-        else:
-            optimizer = nlp.resume_training()
+    with nlp.disable_pipes(*other_pipes) and warnings.catch_warnings():  
+        warnings.filterwarnings("once", category=UserWarning, module='spacy')
+
         #Entreno el modelo segun el numero de iteraciones
+        sizes = compounding(4.0, 32, 1.001)
         for itn in range(iterations):
             print("Starting iteration " + str(itn))
             random.shuffle(TRAIN_DATA)
             losses = {}
-            for text, annotations in TRAIN_DATA:
+            batches = minibatch(TRAIN_DATA, size=sizes)
+            for batch in batches:
+                text, annotations = zip(*batch)
                 nlp.update(
-                    [text],  # batch of texts
-                    [annotations],  # batch of annotations
-                    drop=0.001,  # dropout - make it harder to memorise data
+                    text,  # batch of texts
+                    annotations,  # batch of annotations
+                    drop=0.30,  # dropout - make it harder to memorise data
                     sgd=optimizer,  # callable to update weights
                     losses=losses)
             print(losses)
@@ -257,20 +189,6 @@ salida+="]\n"
 f= open("NER_Output.txt","a+")
 f.write(salida) 
 f.close()
-
-#Cargo el modelo guardado
-prdnlp2 = spacy.load(modelfile)
-test_text2 = input("Enter your testing text: ")
-doc2 = prdnlp2(test_text2)
-for ent in doc2.ents:
-    print("ENTIDAD: ", ent.text)
-    print("TIPO: ", ent.label_)
-
-
-#Cargo y testeo un texto largo
-f= open("1spa.txt","r")
-for x in f:
-  print(x)
 
 
 
