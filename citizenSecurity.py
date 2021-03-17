@@ -190,19 +190,19 @@ def botonesDemo(button):
 
     if button == "Atras": app.firstFrame("MENU")
     else: 
-        if button == "Apache":
+        if button == "Robo y asesinato":
             subs = pysrt.open('Recursos/Videos/Apache Escena.srt',encoding='utf-8')
             startfile(os.path.normpath("Recursos/Videos/Apache Escena.mp4"))
         else:
-            if button == "El Clan":
+            if button == "Secuestro":
                 subs = pysrt.open('Recursos/Videos/El Clan Escena.srt',encoding='utf-8')
                 startfile(os.path.normpath("Recursos/Videos/El Clan Escena.mp4"))
             else:
-                if button == "El Clan 2":
+                if button == "Situacion normal":
                     subs = pysrt.open('Recursos/Videos/El Clan Escena 2.srt',encoding='utf-8')
                     startfile(os.path.normpath("Recursos/Videos/El Clan Escena 2.mp4"))
                 else:
-                    if button == "Nueve Reinas":
+                    if button == "Robo":
                         subs = pysrt.open('Recursos/Videos/Nueve Reinas Escena.srt',encoding='utf-8')
                         startfile(os.path.normpath("Recursos/Videos/Nueve Reinas Escena.mp4"))
         mensajes = []
@@ -301,10 +301,10 @@ app.addImage("videoImagenDemo1", "Recursos/Imagenes/video.gif",  0, 0)
 app.addImage("videoImagenDemo2", "Recursos/Imagenes/video.gif",  0, 2)
 app.stopFrame()
 app.startFrame("BOTONESDEMO")
-app.addButton("Apache", botonesDemo, 0, 0)
-app.addButton("El Clan", botonesDemo, 0, 1)
-app.addButton("El Clan 2", botonesDemo, 1, 0)
-app.addButton("Nueve Reinas", botonesDemo, 1, 1)
+app.addButton("Robo y asesinato", botonesDemo, 0, 0)
+app.addButton("Secuestro", botonesDemo, 0, 1)
+app.addButton("Situacion normal", botonesDemo, 1, 0)
+app.addButton("Robo", botonesDemo, 1, 1)
 app.stopFrame()
 app.addButton("Atras", botonesDemo)
 app.stopFrame()
