@@ -3,11 +3,10 @@ import plac
 import random
 from pathlib import Path
 import thinc.extra.datasets
-
 import spacy
 from spacy.util import minibatch, compounding
-
 import pandas as pd
+from sklearn.model_selection import train_test_split
 
 #NOMBRE DEL MODELO A CREAR
 modelfile = "TEXTCATModel"
@@ -30,12 +29,8 @@ for index, data in train_data.iterrows():
           if data['label'] == 110: #muy seguro
             TRAIN_DATA.append((data['text'],{'cats': {'Muy Inseguro': False, 'Inseguro': False, 'Seguro':False, 'Muy Seguro':True} })) 
 
-    
-
 #DIVIDO EL DATASET EN 2 PARTES, UNA PARA ENTRENAR Y LA OTRA PARA TESTEAR
-from sklearn.model_selection import train_test_split
 X_train, X_test = train_test_split(TRAIN_DATA,  test_size=0.20, random_state=0)
-
 X_test_text, X_test_cats = zip(*X_test)
 
 
