@@ -46,9 +46,21 @@ Una vez instalado, agregar la extensión de Python.
 4. El último paso es clonar el repositorio, abrirlo con Visual Studio Code, y desde el archivo “citizenSecurity.py” ejecutarlo (haciendo clic en el botón de play de la esquina superior derecha).
 
 ## Integrantes
-<a href="https://www.linkedin.com/in/lautaronudel/" target="_blank">
-<img src="https://media-exp1.licdn.com/dms/image/C4D03AQHY3WshFFYQuA/profile-displayphoto-shrink_200_200/0/1572288910025?e=1623888000&v=beta&t=npqXJAJW3v_j_a6Hjxn9tMxOpGeyBvarzxAS2CY8aPU">
-</a>
-- [Chamorro Mateo](https://www.linkedin.com/in/mateo-chamorro/)
-- [Saint Martin Jean Pierre](https://www.linkedin.com/in/jeanpierresaintmartin/)
-- [Nudel Lautaro](https://www.linkedin.com/in/lautaronudel/)
+<div>
+    Chamorro Mateo
+    <a href="https://www.linkedin.com/in/mateo-chamorro/" target="_blank">
+        <img src="https://media-exp1.licdn.com/dms/image/C4E03AQG_JpVukF0mcw/profile-displayphoto-shrink_200_200/0/1589666267075?e=1623888000&v=beta&t=ve5Ylxv3La4JifK_TFzM3cxOGRNhgkevvTbic_0QDEA">
+    </a>
+</div>
+<div>
+    Saint Martin Jean Pierre
+    <a href="https://www.linkedin.com/in/jeanpierresaintmartin/" target="_blank">
+        <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHdx0usKgjA7w/profile-displayphoto-shrink_200_200/0/1615761356000?e=1623888000&v=beta&t=xHOAHTV3wa3X-TFgPArLVP8rVjHZYVW1IT89IbVurdw">
+    </a>
+</div>
+<div>
+    Lautaro Nudel
+    <a href="https://www.linkedin.com/in/lautaronudel/" target="_blank">
+        <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHY3WshFFYQuA/profile-displayphoto-shrink_200_200/0/1572288910025?e=1623888000&v=beta&t=npqXJAJW3v_j_a6Hjxn9tMxOpGeyBvarzxAS2CY8aPU">
+    </a>
+</div>
