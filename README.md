@@ -16,11 +16,11 @@ Pasos a seguir:
  
 Al momento de instalarlo, tener marcada la opción “Add Python 3.9 to PATH” y hacer click en Customize installation.
 
-<img src="https://i.ibb.co/kMQGcLc/image1.png">
+<img src="https://i.ibb.co/kMQGcLc/image1.png" align="center" />
 
 Verificar tener marcada la opción “pip”.
 
-<img src="https://i.ibb.co/5hQmxph/image2.png">
+<img src="https://i.ibb.co/5hQmxph/image2.png" align="center"/>
 
 2. Instalar librerias de Python:
 
@@ -47,8 +47,11 @@ pip install pysrt
 
 Una vez instalado, agregar la extensión de Python.
 
+<img src="https://i.ibb.co/Xt4htyN/image5.png" align="center"/>
 
 4. El último paso es clonar el repositorio, abrirlo con Visual Studio Code, y desde el archivo “citizenSecurity.py” ejecutarlo (haciendo clic en el botón de play de la esquina superior derecha).
+
+<img src="https://i.ibb.co/1rpDJ0h/image3.png" align="center"/>
 
 ## Integrantes
 <a href="https://www.linkedin.com/in/mateo-chamorro/" target="_blank">
