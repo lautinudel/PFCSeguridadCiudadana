@@ -15,10 +15,12 @@ Pasos a seguir:
 1. Instalar [Python](https://www.python.org/downloads/) para windows:
  
 Al momento de instalarlo, tener marcada la opción “Add Python 3.9 to PATH” y hacer click en Customize installation.
-<img source="https://ibb.co/XVSWJnJ">
+
+<img source="https://i.ibb.co/kMQGcLc/image1.png">
+
 Verificar tener marcada la opción “pip”.
 
-<img source="https://ibb.co/1GC1JyG">
+<img source="https://i.ibb.co/5hQmxph/image2.png">
 
 2. Instalar librerias de Python:
 
