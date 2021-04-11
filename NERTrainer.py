@@ -6,7 +6,6 @@ import unidecode
 import re
 from spacy.gold import GoldParse
 from spacy.scorer import Scorer
-from spacy.util import decaying
 from spacy.util import minibatch, compounding
 import warnings
 

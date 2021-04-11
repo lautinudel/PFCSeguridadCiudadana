@@ -47,13 +47,3 @@ for i in range(cantidadFilas):
             filaTexto = ""
 
 f.close()
-
-
-
-#agregar las entidades finales - LISTO
-#cambiar las probabilidades (opcional) - LISTO
-#en el primer for aumentar las cantidad de filas (2000 aprox) - LISTO
-#en el segundo for, hacer el limite aleatorio entre 1 y 10 para que no sean de la misma longitud todas las frases (puede ser un numero aleatorio o con probabilidades) - LISTO
-#Al momento de etiquetar, ver de agregar mas tipos (ahora solo se etiqueta como seguro o inseguro)
-#IMPORTANTE: despues de etiquetar, ver que el dataset este balanceado
-
