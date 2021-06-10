@@ -7,6 +7,8 @@ import spacy
 from spacy.util import minibatch, compounding
 import pandas as pd
 from sklearn.model_selection import train_test_split
+from spacy.gold import GoldParse
+from spacy.scorer import Scorer
 
 class EntrenadorTEXTCAT(object):
     modelo = "TEXTCATModel"
@@ -39,6 +41,8 @@ class EntrenadorTEXTCAT(object):
         prdnlp = self.entrenarModeloTextcat(None, X_train, 30)
 
         prdnlp.to_disk(self.modelo)
+
+        self.obtenerPrecisionPorCategoria(prdnlp,X_test)
 
         #<--- OPCIONAL --->
 
@@ -100,7 +104,7 @@ class EntrenadorTEXTCAT(object):
                     texts, annotations = zip(*batch)
                     nlp.update(texts, annotations, sgd=optimizer, drop=0.2, losses=losses)
                 with textcat.model.use_params(optimizer.averages):
-                    scores = self.obtenerPrecision(nlp.tokenizer, textcat, self.datasetDeEntrenamientoTexto, self.datasetDeEntrenamientoEtiquetas)
+                    scores = self.obtenerPrecisionGeneral(nlp.tokenizer, textcat, self.datasetDeEntrenamientoTexto, self.datasetDeEntrenamientoEtiquetas)
                 print(
                     "{0:.3f}\t{1:.3f}\t{2:.3f}\t{3:.3f}".format(
                         losses["textcat"],
@@ -111,7 +115,7 @@ class EntrenadorTEXTCAT(object):
                 )
         return nlp
 
-    def obtenerPrecision(tokenizer, textcat, texts, cats):
+    def obtenerPrecisionGeneral(tokenizer, textcat, texts, cats):
         docs = (tokenizer(text) for text in texts)
         tp = 0.0  # True positives
         fp = 1e-8  # False positives
@@ -138,4 +142,12 @@ class EntrenadorTEXTCAT(object):
             f_score = 2 * (precision * recall) / (precision + recall)
         return {"textcat_p": precision, "textcat_r": recall, "textcat_f": f_score}
     
+    def obtenerPrecisionPorCategoria(nlp, test_data):
+        eval_input = [(nlp.make_doc(text), GoldParse(nlp.make_doc(text), cats=label["cats"])) for text, label in test_data]
+        scorer = nlp.evaluate(eval_input)
+ 
+        return scorer.scores
+    
 entrenador = EntrenadorTEXTCAT()
+
+
