@@ -75,7 +75,7 @@ class EntrenadorTEXTCAT(object):
             print("Se creo un modelo en español")
 
         if 'textcat' not in nlp.pipe_names:
-            textcat = nlp.create_pipe("textcat")
+            textcat = nlp.create_pipe("textcat", config={"exclusive_classes": True})
             nlp.add_pipe(textcat, last=True) 
         else:
             textcat = nlp.get_pipe("textcat")   
